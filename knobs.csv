@@ -1,0 +1,508 @@
+Outstation,Item,Label,Value,Units,
+11,K2,AHU4 Supply Fan Speed,95.00,%
+11,K3,AHU4 Extract Fan Speed,90.00,%
+11,K4,AHU4 Supply Air Temp SP,18.00,DegC
+11,K5,AHU4 Htg&Clg Deadband,2.00,DegC
+11,K6,AHU4 Htg Valve OVR,0.00,%
+11,K7,AHU4 Recoup OVR,100.00,%
+11,K8,AHU9 Supply Fan Speed,95.00,%
+11,K9,AHU9 Extract Fan Speed,90.00,%
+11,K10,AHU9 Winter Ret Temp SP,23.00,DegC
+11,K11,AHU9 Htg&Clg Deadband,2.00,DegC
+11,K10,AHU9 Winter Ret Temp SP,23.00,DegC
+11,K11,AHU9 Htg&Clg Deadband,2.00,DegC
+11,K12,AHU9 Summer Ret Temp SP,22.00,DegC
+11,K13,AHU9 Htg Valve OVR,100.00,%
+11,K14,AHU9 Clg Valve OVR,100.00,%
+11,K15,AHU9 Recoup OVR,0.00,%
+11,K16,AHU28 Supply Fan Speed,100.00,%
+11,K17,AHU28 Extract Fan Speed,95.00,%
+11,K18,AHU28 Supply Air Temp SP,16.00,DegC
+11,K19,AHU28 Htg&Clg Deadband,2.00,DegC
+11,K20,AHU28 Htg Valve OVR,100.00,%
+11,K21,AHU28 Recoup OVR,100.00,%
+11,K22,AHU32 Supply Fan Speed,100.00,%
+11,K23,AHU32 Extract Fan Speed,100.00,%
+11,K25,AHU32 Supply Air Temp SP,21.00,DegC
+11,K26,AHU32 Htg&Clg Deadband,2.00,DegC
+11,K27,AHU32 Htg Valve OVR,100.00,%
+11,K28,AHU32 Recoup OVR,100.00,%
+11,K29,AHU35 Supply Fan Speed,90.00,%
+11,K30,AHU35 Extract Fan Speed,80.00,%
+11,K30,AHU35 Extract Fan Speed,80.00,%
+11,K31,AHU35 Supply Air Temp SP,29.00,DegC
+11,K32,AHU35 Htg&Clg Deadband,2.00,DegC
+11,K33,AHU35 Htg Valve OVR,100.00,%
+11,K34,AHU35 Recoup OVR,100.00,%
+11,K35,AHU4 Fire Ext SP,100.00,%
+11,K36,AHU9 Fire Ext SP,100.00,%
+11,K37,AHU28 Fire Ext SP,100.00,%
+11,K38,AHU32 Fire Ext SP,100.00,%
+11,K39,AHU35 Fire Ext SP,100.00,%
+13,K1,AHU13 Supply Fan Speed,95.00,%
+13,K2,AHU13 Extract Fan Speed,90.00,%
+13,K3,AHU13 Winter Ret Temp SP,20.00,DegC
+13,K4,AHU13 Htg&Clg Deadband,1.00,DegC
+13,K5,AHU13 Summer Ret Temp SP,16.00,DegC
+13,K6,AHU13 Htg Valve OVR,100.00,%
+13,K7,AHU13 Clg Valve OVR,100.00,%
+13,K8,AHU13 Recoup OVR,100.00,%
+13,K9,Conference 1 AQ SP,100.00,%
+13,K10,AHU14 Supply Spd,100.00,%
+13,K10,AHU14 Supply Spd,100.00,%
+13,K11,AHU14 Sup Fan Spd OR Val,100.00,%
+13,K12,AHU14 Extract Spd,90.00,%
+13,K13,AHU14 Ext Fan Spd OR Val,100.00,%
+13,K14,AHU14 Min Fresh Air,95.00,%
+13,K15,AHU14 Htg & Clg Deadband,1.00,DegC
+13,K16,AHU14 Duct Min,16.00,DegC
+13,K17,AHU14 Duct Max,28.00,DegC
+13,K18,AHU14 Winter Temp SP,22.00,DegC
+13,K19,AHU14 Summer Temp SP,19.00,DegC
+13,K20,Conference 2 AQ SP,100.00,%
+13,K21,AHU15 Supply Min Spd,100.00,%
+13,K22,AHU15 Sup Fan Spd OR Val,100.00,%
+13,K23,AHU15 Extract Min Spd,90.00,%
+13,K24,AHU15 Ext Fan Spd OR Val,100.00,%
+13,K25,AHU15 Htg & Clg Deadband,2.00,DegC
+13,K26,AHU15 Duct Min,10.00,DegC
+13,K27,AHU15 Duct Max,25.00,DegC
+13,K28,AHU15 Winter Temp SP,22.00,DegC
+13,K29,AHU15 Summer Temp SP,19.00,DegC
+13,K30,AHU15 Min Fresh Air,80.00,%
+13,K31,Conference 3 AQ SP,100.00,%
+13,K32,AHU16 Supply Spd,95.00,%
+13,K33,AHU16 Sup Fan Spd OR Val,100.00,%
+13,K34,AHU16 Extract Spd,90.00,%
+13,K35,AHU16 Ext Fan Spd OR Val,100.00,%
+13,K36,AHU16 Htg & Clg Deadband,1.00,DegC
+13,K37,AHU16 Duct Min,16.00,DegC
+13,K38,AHU16 Duct Max,28.00,DegC
+13,K39,AHU16 Winter Temp SP,22.00,DegC
+13,K40,AHU16 Summer Temp SP,19.00,DegC
+13,K41,AHU16 Min Fresh Air,80.00,%
+13,K42,Conference 4 AQ SP,100.00,%
+13,K43,AHU17 Supply Spd,100.00,%
+13,K44,AHU17 Sup Fan Spd OR Val,100.00,%
+13,K45,AHU17 Extract Spd,100.00,%
+13,K46,AHU17 Ext Fan Spd OR Val,100.00,%
+13,K47,AHU17 Htg & Clg Deadband,1.00,DegC
+13,K48,AHU17 Duct Min,16.00,DegC
+13,K49,AHU17 Duct Max,28.00,DegC
+13,K50,AHU17 Winter Temp SP,22.00,DegC
+13,K51,AHU17 Summer Temp SP,16.00,DegC
+13,K52,AHU 14 HTG OR POS,100.00,%
+13,K53,AHU17 Min Fresh Air,90.00,%
+13,K54,Conference 5 AQ SP,100.00,%
+13,K55,AHU18 Supply Spd,100.00,%
+13,K56,AHU18 Sup Fan Spd OR Val,100.00,%
+13,K57,AHU18 Extract Spd,90.00,%
+13,K58,AHU18 Ext Fan Spd OR Val,100.00,%
+13,K59,AHU18 Htg & Clg Deadband,2.00,DegC
+13,K60,AHU18 Duct Min,10.00,DegC
+13,K61,AHU18 Duct Max,28.00,DegC
+13,K62,AHU18 Winter Temp SP,22.00,DegC
+13,K63,AHU18 Summer Temp SP,18.00,DegC
+13,K64,AHU 14 CLG OR POS,100.00,%
+13,K65,AHU18 Min Fresh Air,100.00,%
+13,K66,KS04 Min Speed SP,90.00,%
+13,K67,KS04 Speed OR SP,100.00,%
+13,K68,KS04 Winter Supply Temp SP,20.00,DegC
+13,K69,KS04 Htg&Clg Deadband,2.00,DegC
+13,K70,KS04 Summer Supply Temp SP,19.00,DegC
+13,K71,KS04 Htg Valve OVR,100.00,%
+13,K72,KS04 Clg Valve OVR,10.00,%
+13,K73,AHU13 Fire Ext SP,100.00,%
+13,K74,AHU14 Fire Ext SP,100.00,%
+13,K75,AHU15 Fire Ext SP,100.00,%
+13,K76,AHU16 Fire Ext SP,100.00,%
+13,K77,AHU17 Fire Ext SP,100.00,%
+13,K78,AHU18 Fire Ext SP,100.00,%
+13,K79,AHU 15 HTG OR POS,100.00,%
+13,K80,AHU 15 CLG OR POS,0.00,%
+13,K81,AHU 16 HTG OR POS,100.00,%
+13,K82,AHU 16 CLG OR POS,100.00,%
+13,K83,AHU 17 HTG OR POS,100.00,%
+13,K84,AHU 17 CLG OR POS,100.00,%
+13,K85,AHU 18 HTG OR POS,100.00,%
+13,K86,AHU 18 CLG OR POS,100.00,%
+13,K87,Damper override %,100.00,%
+14,K1,Conference 6 AQ SP,100.00,%
+14,K2,AHU19 Supply Spd,100.00,%
+14,K3,AHU19 Sup Fan Spd OR Val,80.00,%
+14,K4,AHU19 Extract Spd,100.00,%
+14,K5,AHU19 Ext Fan Spd OR Val,100.00,%
+14,K6,AHU19 Htg & Clg Deadband,1.00,DegC
+14,K7,AHU19 Duct Min,14.00,DegC
+14,K8,AHU19 Duct Max,28.00,DegC
+14,K9,AHU19 Winter Temp SP,23.00,DegC
+14,K10,AHU19 Summer Temp SP,21.00,DegC
+14,K10,AHU19 Summer Temp SP,21.00,DegC
+14,K11,AHU 19 HTG OR POS,100.00,%
+14,K12,AHU19 Min Fresh Air,100.00,%
+14,K13,AHU19 Fire Ext SP,100.00,%
+14,K14,Breakout 1 AQ SP,100.00,%
+14,K15,AHU20 Supply Min Spd,100.00,%
+14,K16,AHU20 Sup Fan Spd OR Val,100.00,%
+14,K17,AHU20 Extract Min Spd,90.00,%
+14,K18,AHU20 Ext Fan Spd OR Val,100.00,%
+14,K19,AHU20 Fire Ext SP,100.00,%
+14,K20,AHU20 Htg & Clg Deadband,2.00,DegC
+14,K21,AHU20 Duct Min,12.00,DegC
+14,K22,AHU20 Duct Max,25.00,DegC
+14,K23,AHU20 Winter Temp SP,19.00,DegC
+14,K24,AHU20 Summer Temp SP,18.00,DegC
+14,K25,AHU 19 CLG OR POS,100.00,%
+14,K26,AHU20 Min Fresh Air,50.00,%
+14,K27,Breakout 2 AQ SP,100.00,%
+14,K28,AHU21 Supply Min Spd,100.00,%
+14,K29,AHU21 Sup Fan Spd OR Val,100.00,%
+14,K30,AHU21 Extract Min Spd,85.00,%
+14,K31,AHU21 Ext Fan Spd OR Val,100.00,%
+14,K32,AHU21 Fire Ext SP,100.00,%
+14,K33,AHU21 Htg & Clg Deadband,2.00,DegC
+14,K34,AHU21 Duct Min,10.00,DegC
+14,K35,AHU21 Duct Max,30.00,DegC
+14,K36,AHU21 Winter Temp SP,19.00,DegC
+14,K37,AHU21 Summer Temp SP,18.00,DegC
+14,K38,AHU 20 HTG OR POS,100.00,%
+14,K39,AHU21 Min Fresh Air,90.00,%
+14,K40,Breakout 3 AQ SP,100.00,%
+14,K41,AHU22 Supply Min Spd,90.00,%
+14,K42,AHU22 Sup Fan Spd OR Val,100.00,%
+14,K43,AHU22 Extract Min Spd,85.00,%
+14,K44,AHU22 Ext Fan Spd OR Val,100.00,%
+14,K45,AHU22 Fire Ext SP,100.00,%
+14,K46,AHU22 Htg & Clg Deadband,2.00,DegC
+14,K47,AHU22 Duct Min,19.00,DegC
+14,K48,AHU22 Duct Max,30.00,DegC
+14,K49,AHU22 Winter Temp SP,22.00,DegC
+14,K50,AHU22 Summer Temp SP,18.00,DegC
+14,K51,AHU 20 CLG OR POS,100.00,%
+14,K52,AHU22 Min Fresh Air,80.00,%
+14,K53,Breakout 4 AQ SP,100.00,%
+14,K54,AHU23 Supply Min Spd,95.00,%
+14,K55,AHU23 Sup Fan Spd OR Val,100.00,%
+14,K56,AHU23 Extract Min Spd,85.00,%
+14,K57,AHU23 Ext Fan Spd OR Val,100.00,%
+14,K58,AHU23 Fire Ext SP,100.00,%
+14,K59,AHU23 Htg & Clg Deadband,2.00,DegC
+14,K60,AHU23 Duct Min,12.00,DegC
+14,K61,AHU23 Duct Max,30.00,DegC
+14,K62,AHU23 Winter Temp SP,22.00,DegC
+14,K63,AHU23 Summer Temp SP,22.00,DegC
+14,K64,AHU 21 HTG OR POS,100.00,%
+14,K65,AHU23 Min Fresh Air,80.00,%
+14,K66,KS05 Min Speed SP,90.00,%
+14,K67,KS05 Speed OR SP,100.00,%
+14,K68,KS05 Winter Supply Temp SP,22.00,DegC
+14,K69,KS05 Htg&Clg Deadband,2.00,DegC
+14,K70,KS05 Summer Supply Temp SP,22.00,DegC
+14,K71,KS05 Htg Valve OVR,100.00,%
+14,K72,KS05 Clg Valve OVR,100.00,%
+14,K73,AHU 21 CLG OR POS,100.00,%
+14,K74,AHU 22 HTG OR POS,100.00,%
+14,K75,AHU 22 CLG OR POS,100.00,%
+14,K76,AHU 23 HTG OR POS,100.00,%
+14,K77,AHU 23 CLG OR POS,100.00,%
+14,K78,Dampers Override %,0.00,%
+16,K1,AHU6 Supply Fan Speed,100.00,%
+16,K2,AHU6 Extract Fan Speed,100.00,%
+16,K3,AHU6 Fire Ext SP,100.00,%
+16,K4,AHU6 Winter Space Temp SP,26.00,DegC
+16,K5,AHU6 Htg&Clg Deadband,2.00,DegC
+16,K6,AHU6 Summer Space Temp SP,23.00,DegC
+16,K7,AHU6 Htg Valve OVR,100.00,%
+16,K8,AHU6 Clg Valve OVR,100.00,%
+16,K9,AHU6 Recoup OVR,100.00,%
+16,K10,AHU8Supply Fan Speed,95.00,%
+16,K10,AHU8Supply Fan Speed,95.00,%
+16,K11,AHU8 Extract Fan Speed,90.00,%
+16,K12,AHU8 Fire Ext SP,100.00,%
+16,K13,AHU8 Winter Space Temp SP,22.00,DegC
+16,K14,AHU8 Htg&Clg Deadband,1.00,DegC
+16,K15,AHU8 Summer Space Temp SP,21.00,DegC
+16,K16,AHU8 Htg Valve OVR,100.00,%
+16,K17,AHU8 Clg Valve OVR,100.00,%
+16,K18,AHU8 Recoup OVR,100.00,%
+16,K19,Meeting Rooms CO2 SP,1000.00,ppm
+16,K20,AHU24 Supply Spd,95.00,%
+16,K21,AHU24 Sup Fan Spd OR Val,100.00,%
+16,K22,AHU24 Extract Spd,90.00,%
+16,K23,AHU24 Ext Fan Spd OR Val,100.00,%
+16,K24,AHU24 Fire Ext SP,100.00,%
+16,K25,AHU24 Winter Supply Temp SP,22.00,DegC
+16,K26,AHU24 Htg&Clg Deadband,2.00,DegC
+16,K27,AHU24 Summer Supply Temp SP,20.00,DegC
+16,K28,AHU24 Htg Valve OVR,100.00,%
+16,K29,AHU24 Clg Valve OVR,100.00,%
+16,K30,AHU24 Recirc OVR,0.00,%
+16,K31,AHU26 Supply Fan Speed,60.00,%
+16,K32,AHU26 Extract Fan Speed,90.00,%
+16,K33,AHU26 Fire Ext SP,100.00,%
+16,K34,AHU26 Supply Air Temp SP,26.00,DegC
+16,K35,AHU26 Htg&Clg Deadband,2.00,DegC
+16,K36,AHU26 Htg Valve OVR,100.00,%
+16,K37,AHU26 Recoup OVR,100.00,%
+16,K38,AHU27 Supply Fan Speed,90.00,%
+16,K39,AHU27 Extract Fan Speed,85.00,%
+16,K40,AHU27 Fire Ext SP,100.00,%
+16,K41,AHU27 Winter Space Temp SP,22.00,DegC
+16,K42,AHU27 Htg&Clg Deadband,2.00,DegC
+16,K43,AHU27 Summer Space Temp SP,20.00,DegC
+16,K44,AHU27 Htg Valve OVR,100.00,%
+16,K45,AHU27 Clg Valve OVR,100.00,%
+16,K46,AHU27 Recoup OVR,100.00,%
+16,K47,AHU29 Supply Fan Speed,95.00,%
+16,K48,AHU29 Extract Fan Speed,90.00,%
+16,K49,AHU29 Fire Ext SP,100.00,%
+16,K50,AHU29 Supply Air Temp SP,27.00,DegC
+16,K51,AHU29 Htg&Clg Deadband,2.00,DegC
+16,K52,AHU29 Htg Valve OVR,100.00,%
+16,K53,AHU29 Recoup OVR,100.00,%
+17,K1,AHU30 Supply Fan Speed,100.00,%
+17,K2,AHU30 Extract Fan Speed,100.00,%
+17,K3,AHU30 Fire Ext SP,100.00,%
+17,K4,AHU30 Supply Air Temp SP,16.00,DegC
+17,K5,AHU30 Htg&Clg Deadband,2.00,DegC
+17,K6,AHU30 Htg Valve OVR,100.00,%
+17,K7,AHU30 Recoup OVR,100.00,%
+17,K8,AHU31 Supply Fan Speed,100.00,%
+17,K9,AHU31 Extract Fan Speed,100.00,%
+17,K10,AHU31 Fire Ext SP,100.00,%
+17,K10,AHU31 Fire Ext SP,100.00,%
+17,K11,AHU31 Winter Supply Temp SP,21.00,DegC
+17,K12,AHU31 Htg&Clg Deadband,2.00,DegC
+17,K13,AHU31 Summer Supply Temp SP,16.00,DegC
+17,K14,AHU31 Htg Valve OVR,100.00,%
+17,K15,SF01 RunOn Time,600.00,sec
+17,K16,AHU31 Recoup OVR,100.00,%
+17,K17,SF01 Public Toilets Set Point,21.00,DegC
+17,K18,SF01 Htg Valve OR Pos,100.00,%
+17,K19,KS01 Min Speed SP,100.00,%
+17,K20,KS01 Speed OR SP,100.00,%
+17,K21,KS01 Winter Supply Temp SP,21.00,DegC
+17,K22,KS01 Htg&Clg Deadband,2.00,DegC
+17,K23,KS01 Summer Supply Temp SP,16.00,DegC
+17,K24,KS01 Htg Valve OVR,100.00,%
+17,K25,KS01 Clg Valve OVR,100.00,%
+17,K26,KS02-01 Min Speed SP,100.00,%
+17,K27,KS02-01 Speed OR SP,100.00,%
+17,K28,Kitchen Hood Winter Temp SP,22.00,DegC
+17,K29,Kitchen Hood Htg&Clg DB,2.00,DegC
+17,K30,Kitchen Hood Summer Temp SP,18.00,DegC
+17,K31,KS02-01 Htg Valve OVR,100.00,%
+17,K32,KS02-01 Clg Valve OVR,100.00,%
+17,K33,KS02-02 Min Speed SP,100.00,%
+17,K34,KS02-02 Speed OR SP,100.00,%
+17,K35,KS02-02 Htg Valve OVR,100.00,%
+17,K36,KS02-02 Clg Valve OVR,100.00,%
+17,K37,EF01 RunOn Time,600.00,sec
+17,K38,EF03 RunOn Time,600.00,sec
+17,K39,Foyer OD Htr OAT SP,16.00,DegC
+17,K40,Foyer OD Htr DB,1.00,DegC
+17,K41,Bus-Bar West Riser Cal,54125.00,
+17,K42,Bus-Bar North Riser Cal,53829.00,
+17,K43,DB_LTG_1 External LTG Cal,44.00,
+17,K44,DB_LTG2 External LTG Cal,5.00,
+17,K45,DB_LTG_3 External LTG Cal,1245.00,
+17,K46,Bus-Bar East Riser Cal,45288.00,
+17,K47,DB_LV_1 Cal,5451.00,
+17,K48,DB_LPG_6 Comms RM Cal,3984.00,
+17,K49,Spare Cal,0.00,
+17,K50,DB_G88_1 Pump RM Cal,4508.00,
+17,K51,DB_PK_1 Prep Kitchen Cal,514.00,
+17,K52,LV7 Kitchen Essential Cal,6988.00,
+17,K53,DB_BC_1 Business Centre Cal,311.00,
+17,K54,DB_GP_1 Pantry Cal,0.00,
+17,K55,LV 6 Kitchen Non-Essential Cal,1031.00,
+17,K56,LV External Lighting Cal,6386.00,
+17,K57,DB_LPG_4 General LP Cal,6149.00,
+17,K58,DB_HSK_1 House Keeping Cal,866.00,
+17,K59,DB_MN_1 General LP Cal,2466.00,
+17,K60,DB_1_Guest_Gen LP Cal,8901.00,
+17,K61,DB_2_N Guest_Gen LP Cal,8273.00,
+17,K62,DB_3_N Guest_Gen LP Cal,6694.00,
+17,K63,DB_4_N Guest_Gen LP Cal,9596.00,
+17,K64,None Essential Cal,227802.00,
+17,K65,DB_ME_3 Comms Room LP Cal,447.00,
+17,K66,Essential Cal,133468.00,
+17,K67,DB_MK_1 Cal,1638.00,
+17,K68,DB_MK_2 Cal,4784.00,
+17,K69,DB_MK_3 Cal,768.00,
+17,K70,DB_MK_4 Cal,285.00,
+17,K71,DB_SK_1 Cal,4.00,
+17,K72,DB_SK_2 Cal,10.00,
+17,K73,DB_SR_1 Staff Rest Cal,505.00,
+17,K74,DB_SR_2 Staff Rest Cal,841.00,
+17,K75,DB_CK_1 Conference LP Cal,2588.00,
+17,K76,DB_CK_2 Conference LP Cal,129.00,
+17,K77,DB_PK_2 Prep Kitchen Cal,245.00,
+17,K78,Roof Atrium Chiller 1 Cal,2716.00,
+17,K79,Roof Atrium Chiller 2 Cal,2575.00,
+17,K80,Roof Atrium Chiller 3 Cal,0.00,
+17,K81,LV5 Cal,96978.00,
+17,K82,CP3 MCC Cal,6656.00,
+17,K83,Combination Oven A Cal,19.00,
+17,K84,Combination Oven B Cal,18.00,
+17,K85,Combination Oven C Cal,24.00,
+17,K86,Spare Cal,0.00,
+17,K87,Spare Cal,0.00,
+17,K88,Spare Cal,0.00,
+17,K89,Max Trench Flow,65.00,DegC
+17,K90,Min Trench Flow,0.00,DegC
+17,K91,Trench Valve Overide,100.00,%RH
+17,K92,NON Food RunOn Time,600.00,sec
+17,K93,HRU Run on Time,600.00,sec
+19,K1,Summer Eco,21.00,DegC
+19,K2,AHU Summer Eco,20.00,DegC
+19,K3,Boiler Temp Healthy,60.00,DegC
+19,K4,1st Stage Frost,3.00,DegC
+19,K5,3rd Stage Frost,11.00,DegC
+19,K6,2nd Stage Frost On,25.00,DegC
+19,K7,2nd Stage Frost Off,60.00,DegC
+19,K8,Boiler Set Point,70.00,DegC
+19,K9,Boiler Rotation,200.00,Hrs
+19,K10,Blr 1 Shunt Pump RunOn Time,600.00,sec
+19,K10,Blr 1 Shunt Pump RunOn Time,600.00,sec
+19,K11,Blr 2 Shunt Pump RunOn Time,600.00,sec
+19,K12,Blr 3 Shunt Pump RunOn Time,600.00,sec
+19,K13,Blr 4 Shunt Pump RunOn Time,600.00,sec
+19,K14,West LPHW CT Pump Run On,600.00,Sec
+19,K15,West LPHW CT Pump Speed,100.00,%
+19,K16,North LPHW CT Pump Speed,100.00,%
+19,K17,North LPHW CT Pump Run On,600.00,Sec
+19,K18,East LPHW CT Pump Speed,100.00,%
+19,K19,East LPHW CT Pump Run On,600.00,Sec
+19,K20,AHU LPHW CT Pump Speed,100.00,%
+19,K21,AHU LPHW CT Pump Run On,600.00,Sec
+19,K22,HWS Set Point,63.00,DegC
+19,K23,HWS Dead Band,2.00,DegC
+19,K24,HWS Cylinder 1 Pump RunOn Time,180.00,sec
+19,K25,DHWS High Temp Limit,70.00,DegC
+19,K26,DHWS Limit Delay,120.00,Secs
+19,K27,HWS Cylinder 2 Pump RunOn Time,180.00,sec
+19,K31,HWS Cylinder 3 Pump RunOn Time,180.00,sec
+19,K35,HWS Cylinder 4 Pump RunOn Time,180.00,sec
+19,K31,HWS Cylinder 3 Pump RunOn Time,180.00,sec
+19,K35,HWS Cylinder 4 Pump RunOn Time,180.00,sec
+19,K36,Chiller Rotation,150.00,Hrs
+19,K37,CHW Flow Temp SP,9.00,DegC
+19,K38,Chillers Run On Time,600.00,sec
+19,K39,Chiller 1 Shunt Pump Run On,1200.00,Sec
+19,K40,Chiller 2 Shunt Pump Run On,1200.00,Sec
+19,K41,Chiller 3 Shunt Pump Run On,1200.00,Sec
+19,K42,West CHW CT Pump Run On,1200.00,Sec
+19,K43,North CHW CT Pump Run On,1200.00,Sec
+19,K40,Chiller 2 Shunt Pump Run On,1200.00,Sec
+19,K41,Chiller 3 Shunt Pump Run On,1200.00,Sec
+19,K42,West CHW CT Pump Run On,1200.00,Sec
+19,K43,North CHW CT Pump Run On,1200.00,Sec
+19,K44,East CHW CT Pump Run On,600.00,Sec
+19,K45,AHU CHW CT Pump Run On,1200.00,Sec
+20,K1,AHU1 Supply Fan Speed,100.00,%
+20,K2,AHU1 Extract Fan Speed,100.00,%
+20,K3,AHU1 Winter Space Temp SP,21.00,DegC
+20,K4,AHU1 Htg&Clg Deadband,1.00,DegC
+20,K5,AHU1 Summer Space Temp SP,16.00,DegC
+20,K6,AHU1 Htg Valve OVR,100.00,%
+20,K7,AHU1 Clg Valve OVR,100.00,%
+20,K8,AHU1 Recoup OVR,100.00,%
+20,K9,AHU2 Supply Fan Speed,100.00,%
+20,K10,AHU2 Extract Fan Speed,100.00,%
+20,K10,AHU2 Extract Fan Speed,100.00,%
+20,K11,AHU2 Winter Space Temp SP,21.00,DegC
+20,K12,AHU2 Htg&Clg Deadband,2.00,DegC
+20,K13,AHU2 Summer Space Temp SP,16.00,DegC
+20,K14,AHU2 Htg Valve OVR,100.00,%
+20,K15,AHU2 Clg Valve OVR,100.00,%
+20,K16,AHU2 Recoup OVR,100.00,%
+20,K17,AHU3 Supply Fan Speed,100.00,%
+20,K18,Knob 18,100.00,%
+20,K19,AHU3 Winter Space Temp SP,21.00,DegC
+20,K20,AHU3 Htg&Clg Deadband,2.00,DegC
+20,K21,AHU3 Summer Space Temp SP,16.00,DegC
+20,K22,AHU3 Htg Valve OVR,100.00,%
+20,K23,AHU3 Clg Valve OVR,100.00,%
+20,K24,AHU3 Recoup OVR,100.00,%
+20,K25,AHU5 Supply Fan Speed,100.00,%
+20,K26,AHU5 Extract Fan Speed,100.00,%
+20,K27,AHU5 Winter Space Temp SP,21.00,DegC
+20,K28,AHU5 Htg&Clg Deadband,2.00,DegC
+20,K29,AHU5 Summer Space Temp SP,16.00,DegC
+20,K30,AHU5 Htg Valve OVR,100.00,%
+20,K31,AHU5 Clg Valve OVR,100.00,%
+20,K32,AHU5 Recoup OVR,100.00,%
+20,K34,KS03 Min Speed SP,100.00,%
+20,K35,KS03 Speed OR SP,100.00,%
+20,K36,KE03 Min Speed SP,100.00,%
+20,K37,KE03 Speed OR SP,100.00,%
+20,K38,AHU1 Fire Ext SP,100.00,%
+20,K39,AHU2 Fire Ext SP,100.00,%
+20,K40,AHU3 Fire Ext SP,100.00,%
+20,K40,AHU3 Fire Ext SP,100.00,%
+20,K41,AHU5 Fire Ext SP,100.00,%
+20,K42,KE03 Fire Ext SP,100.00,%
+21,K1,AHU7 Supply Fan Speed,90.00,%
+21,K2,AHU7 Extract Fan Speed,80.00,%
+21,K3,AHU7 Winter Space Temp SP,22.00,DegC
+21,K4,AHU7 Htg&Clg Deadband,1.00,DegC
+21,K5,AHU7 Summer Space Temp SP,16.00,DegC
+21,K6,AHU7 Htg Valve OVR,0.00,%
+21,K7,AHU7 Clg Valve OVR,100.00,%
+21,K8,AHU7 Recoup OVR,100.00,%
+21,K9,AHU10 Supply Fan Speed,100.00,%
+21,K10,AHU10 Extract Fan Speed,100.00,%
+21,K10,AHU10 Extract Fan Speed,100.00,%
+21,K11,AHU10 Winter Supply Temp SP,16.00,DegC
+21,K12,AHU10 Htg&Clg Deadband,2.00,DegC
+21,K13,AHU10 Summer Supply Temp SP,18.00,DegC
+21,K14,AHU10 Htg Valve OVR,100.00,%
+21,K15,AHU10 Clg Valve OVR,100.00,%
+21,K16,AHU10 Recoup OVR,100.00,%
+21,K17,AHU11 Supply Fan Speed,100.00,%
+21,K18,AHU11 Extract Fan Speed,100.00,%
+21,K19,AHU11 Winter Supply Temp SP,21.00,DegC
+21,K20,AHU11 Htg&Clg Deadband,2.00,DegC
+21,K21,AHU11 Summer Supply Temp SP,18.00,DegC
+21,K22,AHU11 Htg Valve OVR,100.00,%
+21,K23,AHU11 Clg Valve OVR,100.00,%
+21,K24,AHU11 Recoup OVR,100.00,%
+21,K25,AHU12 Supply Fan Speed,100.00,%
+21,K26,AHU12 Extract Fan Speed,100.00,%
+21,K27,AHU12 Winter Supply Temp SP,16.00,DegC
+21,K28,AHU12 Htg&Clg Deadband,2.00,DegC
+21,K29,AHU12 Summer Supply Temp SP,18.00,DegC
+21,K30,AHU12 Htg Valve OVR,100.00,%
+21,K31,AHU12 Clg Valve OVR,100.00,%
+21,K32,AHU12 Recoup OVR,100.00,%
+21,K33,KS03 Winter Supply Temp SP,21.00,DegC
+21,K34,KS03 Htg&Clg Deadband,2.00,DegC
+21,K35,KS03 Summer Supply Temp SP,18.00,DegC
+21,K36,KS03 Htg Valve OVR,100.00,%
+21,K37,KS03 Clg Valve OVR,100.00,%
+21,K38,KE01 Min Speed SP,100.00,%
+21,K39,KE01 Speed OR SP,0.00,%
+21,K40,KE02 Min Speed SP,100.00,%
+21,K41,KE02 Speed OR SP,100.00,%
+21,K42,KE04 Min Speed SP,100.00,%
+21,K43,KE04 Speed OR SP,100.00,%
+21,K44,KE05 Min Speed SP,90.00,%
+21,K45,KE05 Speed OR SP,100.00,%
+21,K46,GF CWS Tank Comp 1 Low Level,0.80,m
+21,K47,GF CWS Tank Comp 1 High Level,2.50,m
+21,K48,GF CWS Tank Comp 2 Low Level,0.80,m
+21,K49,GF CWS Tank Comp 2 High Level,2.50,m
+21,K50,5F CWS Tank Comp 1 Low Level,0.80,m
+21,K51,5F CWS Tank Comp 1 High Level,2.75,m
+21,K52,5F CWS Tank Comp 2 Low Level,0.80,m
+21,K53,5F CWS Tank Comp 2 High Level,2.75,m
+21,K54,AHU7 Fire Ext SP,100.00,%
+21,K55,AHU10 Fire Ext SP,100.00,%
+21,K56,AHU11 Fire Ext SP,100.00,%
+21,K57,AHU12 Fire Ext SP,100.00,%
+21,K58,KE01 Fire Ext SP,100.00,%
+21,K59,KE02 Fire Ext SP,100.00,%
+21,K60,KE04 Fire Ext SP,100.00,%
+21,K61,KE05 Fire Ext SP,100.00,%
+21,K62,EF02 RunOn Time,600.00,sec

@@ -1,0 +1,2401 @@
+Outstation,ModulesRef,ModuleLabel,Type,Value,Time,Transition,CurrentState
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/09 00:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/09 04:02:02,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/09 06:52:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/09 09:15:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/09 14:07:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/09 22:05:02,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/10 00:05:00,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/10 03:52:01,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/10 07:49:20,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/10 09:15:01,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/10 13:27:19,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/10 13:28:18,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/10 13:30:35,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/10 13:32:38,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/10 14:02:02,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/10 15:08:38,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/10 15:08:38,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/10 15:09:37,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/10 15:12:54,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/10 15:14:56,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/10 15:14:56,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/10 15:33:30,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/10 15:33:30,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/10 15:34:29,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/10 15:36:46,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/10 15:38:46,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/10 15:38:47,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/10 19:56:47,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/10 19:56:47,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/10 19:57:46,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/10 19:58:24,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/10 20:00:27,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/10 20:00:27,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/10 20:23:35,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/10 20:23:35,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/10 20:24:34,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/10 20:24:43,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/10 20:26:46,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/10 20:26:46,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/10 22:10:01,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/11 00:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/11 04:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/11 06:30:32,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/11 06:31:32,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/11 06:46:54,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/11 06:48:56,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/11 09:00:02,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/11 12:09:49,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/11 12:14:29,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/11 14:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/11 15:07:18,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/11 15:09:46,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/11 22:05:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/12 04:07:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/12 09:15:00,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/12 14:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/12 22:10:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/13 03:57:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/13 09:15:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/13 14:02:02,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/13 16:52:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/13 22:05:01,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/13 23:05:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/14 03:57:02,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/14 07:02:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/14 09:15:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/14 14:02:01,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/14 18:09:52,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/14 22:00:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/15 04:02:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/15 09:15:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/15 14:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/15 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/16 04:02:00,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/16 06:52:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/16 09:15:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/16 14:07:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/16 22:05:01,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/17 00:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/17 03:52:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/17 09:15:02,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/17 13:34:46,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/17 13:36:45,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/17 14:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/17 22:10:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/18 04:02:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/18 08:35:02,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/18 08:36:01,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/18 08:37:25,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/18 08:39:27,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/18 09:00:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/18 14:02:01,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/18 14:41:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/18 22:05:02,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/19 00:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/19 04:07:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/19 09:15:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/19 14:02:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/19 22:10:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/20 03:57:01,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/20 07:51:19,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/20 09:15:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/20 14:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/20 22:05:01,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/21 00:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/21 03:57:02,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/21 09:07:09,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/21 09:15:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/21 14:02:02,Occurred,Waiting
+13,S15,AHU17 Supply Temp,Out of Limits,140.974045,2023/03/21 16:41:45,Cleared,Waiting
+13,S15,AHU17 Supply Temp,Out of Limits,140.904480,2023/03/21 16:42:45,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/21 22:00:02,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/22 00:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/22 04:02:02,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/22 09:02:21,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/03/22 09:05:44,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/22 09:15:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/22 14:02:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/22 22:05:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/22 22:40:06,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/03/23 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/03/23 00:02:02,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/23 00:05:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/03/23 00:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/23 04:01:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/23 04:02:03,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/03/23 08:01:21,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/03/23 08:02:03,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/03/23 09:01:29,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/23 09:15:01,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/03/23 12:02:12,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/23 14:07:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/23 22:05:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/23 22:35:07,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/03/24 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/03/24 00:02:03,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/03/24 00:05:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/03/24 00:05:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/24 03:52:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/24 03:56:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/24 09:15:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/24 13:27:05,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/24 13:27:57,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/24 13:30:53,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/24 13:32:16,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/24 14:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/24 22:10:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/24 22:45:08,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/25 04:01:19,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/25 04:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/25 07:57:08,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/25 07:57:12,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/25 07:59:11,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/25 07:59:56,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/25 09:00:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/25 12:21:28,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/25 12:36:56,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/03/25 13:56:31,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/25 14:02:02,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/03/25 14:02:11,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/25 22:05:01,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/03/26 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/03/26 00:02:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/26 00:05:07,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/26 04:01:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/26 04:07:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/26 09:15:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/26 14:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/26 22:10:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/26 23:05:07,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/27 03:57:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/27 04:01:18,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/03/27 07:46:30,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/03/27 07:47:11,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/27 09:15:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/27 14:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/27 17:12:58,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/03/27 17:12:59,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/03/27 17:12:59,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/27 17:13:04,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/27 17:14:25,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/03/27 17:14:34,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/27 17:15:09,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/03/27 17:15:20,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/27 22:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/27 22:35:08,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/03/28 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/03/28 00:02:03,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/28 03:57:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/28 04:01:17,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/03/28 09:01:30,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/03/28 09:02:10,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/28 09:15:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/28 14:02:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/28 22:00:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/28 22:40:08,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/03/29 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/03/29 00:02:05,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/29 03:56:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/29 04:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/03/29 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/03/29 08:05:01,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/03/29 08:45:47,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/29 08:45:48,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/29 08:45:52,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/29 08:46:47,Occurred,Waiting
+17,I26,Non Food Flow Fail,On,1.000000,2023/03/29 08:46:49,Occurred,Waiting
+17,I26,Non Food Flow Fail,On,0.000000,2023/03/29 08:46:52,Cleared,Waiting
+17,I40,KS02-02 Supply Flow Fail,On,0.000000,2023/03/29 08:46:52,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/03/29 08:46:52,Cleared,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/29 08:49:13,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/03/29 08:49:28,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/29 08:50:31,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/29 08:51:15,Occurred,Waiting
+17,I40,KS02-02 Supply Flow Fail,On,1.000000,2023/03/29 08:51:16,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/03/29 08:51:16,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/03/29 09:01:27,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/03/29 09:02:10,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/29 09:15:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/29 14:02:03,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/03/29 21:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/03/29 22:05:00,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/29 22:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/29 22:40:07,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/03/29 23:10:02,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/03/30 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/03/30 00:02:14,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/30 04:01:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/30 04:02:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/03/30 05:02:22,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/03/30 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/03/30 08:05:01,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/03/30 09:01:26,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/30 09:15:02,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/03/30 12:02:11,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/30 14:07:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/03/30 21:02:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/30 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/03/30 22:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/30 22:35:08,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/03/30 23:10:02,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/03/31 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/03/31 00:02:14,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/31 03:52:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/31 03:56:18,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/03/31 05:02:22,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/03/31 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/03/31 08:05:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/31 09:15:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/31 11:01:25,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/03/31 13:27:07,Occurred,Waiting
+17,I26,Non Food Flow Fail,On,1.000000,2023/03/31 13:28:09,Occurred,Waiting
+17,I39,KS02-01 Supply Flow Fail,On,1.000000,2023/03/31 13:29:08,Occurred,Waiting
+17,I38,KS01 Supply Flow Fail,On,1.000000,2023/03/31 13:29:08,Occurred,Waiting
+17,I33,AHU31 Supply Flow Fail,On,1.000000,2023/03/31 13:29:08,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/31 13:34:08,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/31 13:34:13,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/03/31 13:35:07,Occurred,Waiting
+14,I47,KS05 Supply Flow Fail,On,1.000000,2023/03/31 13:36:10,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/03/31 13:37:31,Cleared,Waiting
+17,I26,Non Food Flow Fail,On,0.000000,2023/03/31 13:37:33,Cleared,Waiting
+17,I33,AHU31 Supply Flow Fail,On,0.000000,2023/03/31 13:37:33,Cleared,Waiting
+14,I47,KS05 Supply Flow Fail,On,0.000000,2023/03/31 13:37:35,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/03/31 13:37:44,Cleared,Waiting
+17,I39,KS02-01 Supply Flow Fail,On,0.000000,2023/03/31 13:37:47,Cleared,Waiting
+17,I38,KS01 Supply Flow Fail,On,0.000000,2023/03/31 13:37:53,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/03/31 13:38:48,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/03/31 13:39:33,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/03/31 15:38:52,Occurred,Waiting
+17,I26,Non Food Flow Fail,On,1.000000,2023/03/31 15:39:54,Occurred,Waiting
+17,I39,KS02-01 Supply Flow Fail,On,1.000000,2023/03/31 15:40:53,Occurred,Waiting
+17,I33,AHU31 Supply Flow Fail,On,1.000000,2023/03/31 15:40:53,Occurred,Waiting
+17,I38,KS01 Supply Flow Fail,On,1.000000,2023/03/31 15:40:53,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/03/31 15:42:08,Cleared,Waiting
+17,I39,KS02-01 Supply Flow Fail,On,0.000000,2023/03/31 15:42:09,Cleared,Waiting
+17,I33,AHU31 Supply Flow Fail,On,0.000000,2023/03/31 15:42:09,Cleared,Waiting
+17,I26,Non Food Flow Fail,On,0.000000,2023/03/31 15:42:10,Cleared,Waiting
+17,I38,KS01 Supply Flow Fail,On,0.000000,2023/03/31 15:42:30,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/03/31 21:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/03/31 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/03/31 22:10:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/03/31 22:45:07,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/03/31 23:10:01,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/01 02:52:00,Occurred,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/04/01 02:53:01,Occurred,Waiting
+17,I39,KS02-01 Supply Flow Fail,On,1.000000,2023/04/01 02:54:02,Occurred,Waiting
+17,I38,KS01 Supply Flow Fail,On,1.000000,2023/04/01 02:54:02,Occurred,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/04/01 02:55:59,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/01 02:56:10,Cleared,Waiting
+17,I39,KS02-01 Supply Flow Fail,On,0.000000,2023/04/01 02:56:18,Cleared,Waiting
+17,I38,KS01 Supply Flow Fail,On,0.000000,2023/04/01 02:56:24,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/01 04:01:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/01 04:02:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/01 05:02:22,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/01 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/01 08:05:01,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/01 13:56:25,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/01 14:02:10,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/01 21:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/01 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/01 22:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/01 23:10:01,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/02 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/02 00:02:11,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/02 00:05:07,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/02 04:01:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/02 04:07:03,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/02 05:02:24,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/02 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/02 08:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/02 21:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/02 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/02 22:10:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/02 23:05:07,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/02 23:10:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/03 03:57:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/03 04:01:17,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/03 05:02:21,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/03 07:02:01,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/03 07:46:25,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/03 07:47:10,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/03 08:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/03 09:25:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/03 21:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/03 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/03 22:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/03 22:35:06,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/04 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/04 00:02:11,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/04 03:57:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/04 04:01:18,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/04 05:02:21,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/04 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/04 08:05:02,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/04 09:01:26,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/04 09:02:10,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/04 21:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/04 22:00:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/04 22:05:00,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/04 22:40:08,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/04 23:10:01,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/05 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/05 00:02:13,Cleared,Waiting
+19,I46,HWS Cylinder 2 Pump Flow Fail,On,0.000000,2023/04/05 01:57:33,Cleared,Waiting
+19,I46,HWS Cylinder 2 Pump Flow Fail,On,1.000000,2023/04/05 03:41:44,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/05 03:56:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/05 04:02:03,Occurred,Waiting
+19,I46,HWS Cylinder 2 Pump Flow Fail,On,0.000000,2023/04/05 04:40:28,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/05 05:02:23,Occurred,Waiting
+19,I46,HWS Cylinder 2 Pump Flow Fail,On,1.000000,2023/04/05 05:21:28,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/05 07:02:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/05 07:15:29,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/05 07:37:31,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/05 08:05:02,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/05 09:01:26,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/05 09:02:11,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/05 13:41:39,Cleared,Waiting
+19,I46,HWS Cylinder 2 Pump Flow Fail,On,0.000000,2023/04/05 18:10:18,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/05 19:15:35,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/05 19:37:39,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/05 21:02:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/05 22:05:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/05 22:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/05 22:40:07,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/05 23:10:02,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I56,East LPHW CT Duty Pump Fail,On,0.000000,2023/04/06 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/06 00:01:13,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/06 00:01:13,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/06 00:01:13,Occurred,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/06 00:01:14,Occurred,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/06 00:01:15,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/06 00:01:15,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/06 00:02:18,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/06 00:17:02,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/06 00:17:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/06 00:17:03,Occurred,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/06 00:17:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/06 04:01:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/06 04:02:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/06 05:02:22,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/06 07:02:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/06 07:15:40,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/06 07:37:43,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/06 08:05:01,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/06 09:01:25,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/06 19:15:46,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/06 19:37:49,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/06 21:02:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/06 22:05:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/06 22:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/06 22:35:08,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/06 23:10:01,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/06 23:27:12,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/07 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/07 00:01:13,Occurred,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/07 00:01:13,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/07 00:01:13,Occurred,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/07 00:01:13,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/07 00:01:14,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/07 00:01:14,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/07 00:02:15,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/07 00:17:02,Occurred,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/07 00:17:02,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/07 00:17:02,Occurred,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/07 00:17:03,Occurred,Waiting
+19,I56,East LPHW CT Duty Pump Fail,On,1.000000,2023/04/07 00:56:31,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/07 03:52:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/07 03:56:17,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/07 05:02:22,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/07 07:02:01,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/07 07:15:51,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/07 07:37:53,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/07 08:05:02,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/07 19:15:57,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/07 19:38:00,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/07 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/07 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/07 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/07 21:10:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/07 21:17:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/07 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/07 22:10:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/07 22:45:08,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/07 23:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/07 23:10:02,Cleared,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I56,East LPHW CT Duty Pump Fail,On,0.000000,2023/04/08 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/08 00:01:13,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/08 00:01:13,Occurred,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/08 00:01:14,Occurred,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/08 00:01:14,Occurred,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/08 00:01:15,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/08 00:01:15,Occurred,Waiting
+19,I56,East LPHW CT Duty Pump Fail,On,1.000000,2023/04/08 00:02:02,Occurred,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/08 00:17:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/08 00:17:02,Occurred,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/08 00:17:02,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/08 00:17:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/08 04:01:18,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/08 04:02:01,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/08 05:02:22,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/08 05:52:18,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/08 06:26:22,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/08 06:37:03,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/08 06:37:11,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/08 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/08 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/08 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/08 07:02:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/08 07:16:02,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/08 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/08 07:37:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/08 07:38:04,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/08 08:05:01,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/08 12:41:52,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/08 12:41:52,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/08 12:41:52,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/08 12:41:52,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/08 12:41:52,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/08 12:41:57,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/04/08 12:42:51,Occurred,Waiting
+19,I3,Gas Safety Active,On,1.000000,2023/04/08 12:42:53,Occurred,Waiting
+11,I21,Fire Alarm Active,On,1.000000,2023/04/08 12:42:54,Occurred,Waiting
+17,I26,Non Food Flow Fail,On,1.000000,2023/04/08 12:42:54,Occurred,Waiting
+14,I47,KS05 Supply Flow Fail,On,1.000000,2023/04/08 12:43:53,Occurred,Waiting
+14,I43,AHU22 Supply Flow Fail,On,1.000000,2023/04/08 12:43:53,Occurred,Waiting
+14,I45,AHU23 Supply Flow Fail,On,1.000000,2023/04/08 12:43:53,Occurred,Waiting
+14,I39,AHU20 Supply Flow Fail,On,1.000000,2023/04/08 12:43:53,Occurred,Waiting
+14,I37,AHU19 Supply Flow Fail,On,1.000000,2023/04/08 12:43:53,Occurred,Waiting
+17,I39,KS02-01 Supply Flow Fail,On,1.000000,2023/04/08 12:43:54,Occurred,Waiting
+17,I33,AHU31 Supply Flow Fail,On,1.000000,2023/04/08 12:43:54,Occurred,Waiting
+17,I38,KS01 Supply Flow Fail,On,1.000000,2023/04/08 12:43:54,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/08 12:46:55,Cleared,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/04/08 12:47:46,Cleared,Waiting
+19,I3,Gas Safety Active,On,0.000000,2023/04/08 12:47:46,Cleared,Waiting
+11,I21,Fire Alarm Active,On,0.000000,2023/04/08 12:47:50,Cleared,Waiting
+17,I39,KS02-01 Supply Flow Fail,On,0.000000,2023/04/08 12:47:51,Cleared,Waiting
+17,I33,AHU31 Supply Flow Fail,On,0.000000,2023/04/08 12:47:51,Cleared,Waiting
+14,I47,KS05 Supply Flow Fail,On,0.000000,2023/04/08 12:47:52,Cleared,Waiting
+17,I26,Non Food Flow Fail,On,0.000000,2023/04/08 12:47:52,Cleared,Waiting
+14,I45,AHU23 Supply Flow Fail,On,0.000000,2023/04/08 12:47:55,Cleared,Waiting
+14,I43,AHU22 Supply Flow Fail,On,0.000000,2023/04/08 12:47:55,Cleared,Waiting
+14,I39,AHU20 Supply Flow Fail,On,0.000000,2023/04/08 12:47:56,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/08 12:47:59,Cleared,Waiting
+14,I37,AHU19 Supply Flow Fail,On,0.000000,2023/04/08 12:48:04,Cleared,Waiting
+17,I38,KS01 Supply Flow Fail,On,0.000000,2023/04/08 12:48:11,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/08 12:49:03,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/08 12:49:07,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/08 12:49:48,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/08 12:49:49,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/08 12:49:51,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/08 12:49:57,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/08 13:56:28,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/08 13:59:40,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/08 13:59:44,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/08 13:59:44,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/08 13:59:44,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/08 13:59:44,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/08 13:59:44,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/08 13:59:49,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/08 14:00:05,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/08 14:01:08,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/08 14:01:14,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/08 14:01:16,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/08 14:01:55,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/08 14:01:56,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/08 14:02:04,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/08 14:11:48,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/08 14:11:48,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/08 14:11:48,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/08 14:11:48,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/08 14:11:48,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/08 14:11:48,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/08 14:11:53,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/08 14:12:10,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/08 14:13:13,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/08 14:13:19,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/08 14:13:21,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/08 14:14:00,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/08 14:14:00,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/08 14:14:09,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/08 14:20:45,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/08 14:20:46,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/08 14:23:21,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/08 14:23:22,Cleared,Waiting
+13,I52,AHU15 Supply Flow Fail,On,1.000000,2023/04/08 16:32:49,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/08 19:16:08,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/08 19:38:11,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/08 21:00:00,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/08 21:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/08 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/08 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/08 21:32:04,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/08 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/08 22:05:02,Cleared,Waiting
+13,I52,AHU15 Supply Flow Fail,On,0.000000,2023/04/08 22:55:02,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/08 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/08 23:10:02,Cleared,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I56,East LPHW CT Duty Pump Fail,On,0.000000,2023/04/09 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/09 00:01:14,Occurred,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/09 00:01:15,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/09 00:01:15,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/09 00:01:15,Occurred,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/09 00:01:15,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/09 00:01:15,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/09 00:02:13,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/09 00:05:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/09 00:05:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/09 00:05:07,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/09 00:17:01,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/09 00:17:01,Occurred,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/09 00:17:01,Occurred,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/09 00:17:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/09 04:01:17,Occurred,Waiting
+19,I56,East LPHW CT Duty Pump Fail,On,1.000000,2023/04/09 04:02:04,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/09 04:07:01,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/09 05:02:22,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/09 05:52:19,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/09 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/09 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/09 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/09 07:02:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/09 07:16:13,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/09 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/09 07:32:03,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/09 07:38:16,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/09 08:05:02,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/09 14:19:39,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/09 17:23:00,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/09 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/09 21:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/09 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/09 21:15:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/09 21:22:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/09 22:05:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/09 22:10:02,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/09 23:05:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/09 23:05:07,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/09 23:10:01,Cleared,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I56,East LPHW CT Duty Pump Fail,On,0.000000,2023/04/10 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/10 00:01:13,Occurred,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/10 00:01:13,Occurred,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/10 00:01:13,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/10 00:01:13,Occurred,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/10 00:01:14,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/10 00:01:14,Occurred,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,1.000000,2023/04/10 00:02:01,Occurred,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/10 00:17:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/10 00:17:02,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/10 00:17:02,Occurred,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/10 00:17:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/10 03:57:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/10 04:01:17,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/10 05:01:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/10 05:02:22,Occurred,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,1.000000,2023/04/10 05:18:18,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/10 05:23:05,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/10 06:55:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/10 06:57:03,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/10 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/10 07:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/10 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/10 07:32:03,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/10 07:46:26,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/10 08:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/10 09:25:01,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/10 17:01:08,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/10 17:23:12,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/10 20:40:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/10 20:42:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/10 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/10 21:25:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/10 21:32:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/10 22:05:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/10 22:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/10 22:35:07,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/10 23:05:01,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/10 23:22:10,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,0.000000,2023/04/11 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/11 00:01:14,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/11 00:01:14,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/11 00:01:14,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/11 00:01:14,Occurred,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/11 00:01:14,Occurred,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/11 00:01:14,Occurred,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,1.000000,2023/04/11 00:02:02,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/11 00:02:17,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/11 00:17:01,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/11 00:17:01,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/11 00:17:02,Occurred,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/11 00:17:02,Occurred,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,1.000000,2023/04/11 00:20:12,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/11 03:57:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/11 04:01:18,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/11 05:01:13,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/11 05:02:22,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/11 05:23:17,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/11 07:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/11 07:02:01,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/11 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/11 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/11 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/11 07:37:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/11 08:05:02,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/11 09:01:26,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/11 09:02:11,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/11 09:30:01,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/11 17:01:19,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/11 17:23:22,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/11 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/11 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/11 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/11 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/11 21:32:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/11 22:00:02,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/11 22:02:00,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/11 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/11 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/11 22:07:01,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/11 22:40:07,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/11 22:55:44,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/11 22:55:44,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/11 22:55:46,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/04/11 22:56:44,Occurred,Waiting
+19,I3,Gas Safety Active,On,1.000000,2023/04/11 22:56:45,Occurred,Waiting
+11,I21,Fire Alarm Active,On,1.000000,2023/04/11 22:56:46,Occurred,Waiting
+17,I26,Non Food Flow Fail,On,1.000000,2023/04/11 22:56:47,Occurred,Waiting
+19,I2,Fire Alarm Active,On,1.000000,2023/04/11 22:57:37,Occurred,Waiting
+17,I26,Non Food Flow Fail,On,0.000000,2023/04/11 22:57:40,Cleared,Waiting
+17,I40,KS02-02 Supply Flow Fail,On,0.000000,2023/04/11 22:57:40,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/11 22:57:40,Cleared,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/04/11 22:58:33,Cleared,Waiting
+19,I3,Gas Safety Active,On,0.000000,2023/04/11 22:58:33,Cleared,Waiting
+19,I2,Fire Alarm Active,On,0.000000,2023/04/11 22:58:33,Cleared,Waiting
+11,I21,Fire Alarm Active,On,0.000000,2023/04/11 22:58:37,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/11 22:58:44,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/11 22:59:58,Occurred,Waiting
+17,I40,KS02-02 Supply Flow Fail,On,1.000000,2023/04/11 23:00:36,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/11 23:00:36,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/11 23:01:00,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/11 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/11 23:10:01,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,0.000000,2023/04/12 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/12 00:01:12,Occurred,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/12 00:01:12,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/12 00:01:12,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/12 00:01:12,Occurred,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/12 00:01:13,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/12 00:01:14,Occurred,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,1.000000,2023/04/12 00:02:02,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/12 00:02:12,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/12 00:17:01,Occurred,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/12 00:17:01,Occurred,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/12 00:17:02,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/12 00:17:02,Occurred,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,1.000000,2023/04/12 00:18:26,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/12 03:56:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/12 04:02:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/12 05:01:24,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/12 05:02:22,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/12 05:23:27,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/12 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/12 06:02:30,Occurred,Waiting
+19,I65,HWS Cylinder 4 Pump Flow Fail,On,0.000000,2023/04/12 06:29:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/12 06:29:00,Cleared,Waiting
+19,I5,LPHW Press Unit High Pressure,On,1.000000,2023/04/12 06:29:59,Occurred,Waiting
+19,I4,LPHW Press Unit Low Pressure,On,1.000000,2023/04/12 06:29:59,Occurred,Waiting
+19,I55,North LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/12 06:33:02,Occurred,Waiting
+19,I54,North LPHW CT Duty Pump Fail,On,1.000000,2023/04/12 06:33:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/12 07:00:00,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/12 07:00:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/12 07:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/12 07:02:02,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/12 07:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/12 07:02:03,Occurred,Waiting
+19,I5,LPHW Press Unit High Pressure,On,0.000000,2023/04/12 07:02:36,Cleared,Waiting
+19,I4,LPHW Press Unit Low Pressure,On,0.000000,2023/04/12 07:02:36,Cleared,Waiting
+19,I55,North LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/12 07:02:49,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/12 07:04:52,Occurred,Waiting
+19,I65,HWS Cylinder 4 Pump Flow Fail,On,1.000000,2023/04/12 07:05:12,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/12 07:30:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/12 07:37:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/12 08:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/12 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/12 08:07:02,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/12 09:01:25,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/12 09:02:10,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/12 09:03:28,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/12 09:15:01,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/12 17:01:30,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/12 17:23:33,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/12 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/12 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/12 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/12 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/12 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/12 21:10:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/12 21:17:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/12 22:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/12 22:05:00,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/12 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/12 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/12 22:07:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/12 22:40:08,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/12 23:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/12 23:10:01,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I54,North LPHW CT Duty Pump Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,0.000000,2023/04/13 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/13 00:01:12,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/13 00:01:12,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/13 00:01:12,Occurred,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/13 00:01:12,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/13 00:01:13,Occurred,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/13 00:01:13,Occurred,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,1.000000,2023/04/13 00:02:04,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/13 00:02:18,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/13 00:17:01,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/13 00:17:01,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/13 00:17:01,Occurred,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/13 00:17:01,Occurred,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,1.000000,2023/04/13 00:20:09,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/13 04:01:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/13 04:02:03,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/13 05:01:35,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/13 05:02:23,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/13 05:23:38,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/13 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/13 06:02:27,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/13 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/13 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/13 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/13 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/13 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/13 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/13 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/13 07:32:01,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/13 08:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/13 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/13 08:07:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/13 08:32:46,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/13 09:01:25,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/13 10:05:07,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/13 10:05:08,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/13 10:05:09,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/13 10:05:09,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/13 10:05:14,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/13 10:05:40,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/13 10:06:45,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/13 10:06:52,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/13 10:07:31,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/13 10:07:55,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/13 12:59:08,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/13 12:59:08,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/13 12:59:09,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/13 12:59:10,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/13 12:59:14,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/13 13:00:14,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/13 13:01:18,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/13 13:01:26,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/13 13:02:03,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/13 13:02:30,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/13 13:02:31,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/13 13:41:56,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/13 13:41:56,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/13 13:41:57,Cleared,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/13 13:41:58,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/13 13:41:58,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/13 13:42:02,Cleared,Waiting
+13,I40,Fire Alarm Active,On,1.000000,2023/04/13 13:42:56,Occurred,Waiting
+19,I3,Gas Safety Active,On,1.000000,2023/04/13 13:42:57,Occurred,Waiting
+19,I2,Fire Alarm Active,On,1.000000,2023/04/13 13:42:57,Occurred,Waiting
+11,I21,Fire Alarm Active,On,1.000000,2023/04/13 13:42:58,Occurred,Waiting
+17,I40,KS02-02 Supply Flow Fail,On,0.000000,2023/04/13 13:43:00,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/13 13:43:00,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/13 13:43:01,Cleared,Waiting
+13,I40,Fire Alarm Active,On,0.000000,2023/04/13 13:43:55,Cleared,Waiting
+19,I3,Gas Safety Active,On,0.000000,2023/04/13 13:43:56,Cleared,Waiting
+19,I2,Fire Alarm Active,On,0.000000,2023/04/13 13:43:56,Cleared,Waiting
+11,I21,Fire Alarm Active,On,0.000000,2023/04/13 13:44:00,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/13 13:44:06,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/13 13:45:13,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/13 13:45:20,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/13 13:45:56,Occurred,Waiting
+17,I40,KS02-02 Supply Flow Fail,On,1.000000,2023/04/13 13:45:57,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/13 13:45:57,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/13 13:45:58,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/13 13:46:22,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/13 13:46:26,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/13 17:01:41,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/13 17:23:44,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/13 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/13 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/13 21:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/13 22:00:00,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/13 22:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/13 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/13 22:05:01,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/13 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/13 22:07:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/13 22:35:08,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/13 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/13 23:10:02,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/13 23:27:12,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,0.000000,2023/04/14 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/14 00:01:13,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/14 00:01:13,Occurred,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/14 00:01:14,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/14 00:01:14,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/14 00:01:14,Occurred,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/14 00:01:14,Occurred,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,1.000000,2023/04/14 00:02:02,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/14 00:02:17,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/14 00:17:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/14 00:17:03,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/14 00:17:03,Occurred,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/14 00:17:03,Occurred,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,1.000000,2023/04/14 00:19:34,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/14 03:52:01,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/14 03:56:17,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/14 05:01:45,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/14 05:02:22,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/14 05:23:49,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/14 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/14 06:02:29,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/14 06:42:02,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/14 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/14 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/14 07:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/14 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/14 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/14 07:20:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/14 07:27:04,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/14 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/14 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/14 08:07:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/14 08:24:03,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/14 17:01:51,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/14 17:23:55,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/14 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/14 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/14 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/14 21:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/14 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/14 21:10:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/14 21:17:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/14 22:02:01,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/14 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/14 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/14 22:07:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/14 22:10:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/14 22:45:10,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/14 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/14 23:10:01,Cleared,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,0.000000,2023/04/15 00:00:00,Cleared,Waiting
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,1.000000,2023/04/15 00:01:13,Occurred,Waiting
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,1.000000,2023/04/15 00:01:13,Occurred,Waiting
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,1.000000,2023/04/15 00:01:13,Occurred,Waiting
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,1.000000,2023/04/15 00:01:14,Occurred,Waiting
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,1.000000,2023/04/15 00:01:14,Occurred,Waiting
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,1.000000,2023/04/15 00:01:14,Occurred,Waiting
+19,I48,West LPHW CT Duty Pump Fail,On,1.000000,2023/04/15 00:02:01,Occurred,Waiting
+19,I77,AHU CHW CT Duty Pump Fail,On,1.000000,2023/04/15 00:17:01,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/15 00:17:01,Occurred,Waiting
+19,I58,AHU LPHW CT Duty Pump Fail,On,1.000000,2023/04/15 00:17:01,Occurred,Waiting
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,1.000000,2023/04/15 00:17:02,Occurred,Waiting
+19,I75,East CHW CT Duty Pump Fail,On,1.000000,2023/04/15 00:18:26,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/15 04:01:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/15 04:02:02,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,0.000000,2023/04/15 05:01:56,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/15 05:02:21,Occurred,Waiting
+19,I78,AHU CHW CT Pump 1+2 Fail,On,1.000000,2023/04/15 05:23:58,Occurred,Waiting
+13,I52,AHU15 Supply Flow Fail,On,1.000000,2023/04/15 06:02:01,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/15 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/15 06:02:28,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/15 06:26:22,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/15 06:37:03,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/15 06:37:12,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/15 06:51:25,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/15 07:00:00,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/15 07:00:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/15 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/15 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/15 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/15 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/15 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/15 07:37:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/15 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/15 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/15 08:07:02,Occurred,Waiting
+19,S22,CHWS Return Temp,Out of Limits,-53.011150,2023/04/15 09:05:54,Cleared,Waiting
+19,S22,CHWS Return Temp,Out of Limits,-53.011150,2023/04/15 09:06:54,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/15 15:59:42,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/15 15:59:43,Cleared,Waiting
+13,I52,AHU15 Supply Flow Fail,On,0.000000,2023/04/15 15:59:43,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/15 15:59:43,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/15 15:59:43,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/15 15:59:43,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/15 15:59:43,Cleared,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/15 15:59:44,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/15 15:59:44,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/15 15:59:49,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/15 16:00:43,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/15 16:01:46,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/15 16:01:53,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/15 16:01:54,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/15 16:02:32,Occurred,Waiting
+13,I52,AHU15 Supply Flow Fail,On,1.000000,2023/04/15 16:02:32,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/15 16:02:32,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/15 16:02:42,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/15 16:02:59,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/15 16:03:00,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/15 21:00:00,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/15 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/15 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/15 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/15 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/15 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/15 21:32:03,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/15 22:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/15 22:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/15 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/15 22:05:01,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/15 22:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/15 22:07:01,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/15 23:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/15 23:10:01,Cleared,Waiting
+13,I52,AHU15 Supply Flow Fail,On,0.000000,2023/04/16 00:00:00,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/16 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/16 00:02:17,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/16 00:05:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/16 00:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/16 00:05:08,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/16 04:01:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/16 04:07:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/16 05:02:23,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/16 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/16 06:02:29,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/16 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/16 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/16 07:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/16 07:02:01,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/16 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/16 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/16 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/16 07:32:03,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/16 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/16 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/16 08:07:02,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/16 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/16 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/16 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/16 21:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/16 21:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/16 21:15:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/16 21:22:01,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/16 22:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/16 22:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/16 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/16 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/16 22:07:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/16 22:10:02,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/16 23:05:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/16 23:05:08,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/16 23:10:02,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/17 03:57:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/17 04:01:16,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/17 05:02:22,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/17 05:42:20,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/17 06:02:01,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/17 06:02:30,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/17 06:55:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/17 06:57:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/17 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/17 07:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/17 07:02:02,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/17 07:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/17 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/17 07:32:03,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/17 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/17 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/17 08:07:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/17 08:22:21,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/17 09:25:02,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/17 16:42:49,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/17 16:52:01,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/17 20:15:33,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/17 20:22:04,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/17 20:40:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/17 20:42:01,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/17 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/17 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/17 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/17 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/17 21:32:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/17 21:41:20,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/17 22:02:00,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/17 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/17 22:05:01,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/17 22:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/17 22:07:01,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/17 22:35:08,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/17 23:05:01,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/17 23:05:02,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/17 23:22:12,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/17 23:45:33,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/17 23:52:01,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/18 00:00:00,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/18 00:00:00,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/18 00:02:08,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,0.000000,2023/04/18 00:05:01,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,1.000000,2023/04/18 00:12:04,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/18 02:45:49,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/18 02:51:33,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/18 03:57:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/18 04:01:17,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/18 05:02:21,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/18 05:32:19,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/18 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/18 06:02:30,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/18 06:12:18,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/18 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/18 07:00:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/18 07:00:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/18 07:02:01,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/18 07:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/18 07:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/18 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/18 07:37:03,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/18 07:58:55,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/18 08:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/18 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/18 08:07:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/18 08:12:07,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/18 09:02:11,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/18 09:30:01,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/18 09:37:01,Occurred,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/18 11:50:22,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/18 14:15:02,Cleared,Waiting
+21,I27,5th Flr CWS Booster Set Fault,On,0.000000,2023/04/18 14:26:00,Cleared,Waiting
+21,I27,5th Flr CWS Booster Set Fault,On,1.000000,2023/04/18 14:27:06,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/18 15:57:49,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/18 16:37:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/18 17:49:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/18 18:40:28,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/18 20:10:27,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/18 21:00:00,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/18 21:00:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/18 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/18 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/18 21:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/18 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/18 21:32:03,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/18 21:51:04,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/18 22:00:02,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/18 22:02:01,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/18 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/18 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/18 22:07:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/18 22:40:09,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/18 23:00:00,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/18 23:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/18 23:10:01,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/18 23:30:05,Cleared,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,0.000000,2023/04/18 23:38:15,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,0.000000,2023/04/18 23:38:15,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/18 23:42:01,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/18 23:46:25,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/19 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/19 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/19 00:02:15,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/19 03:55:27,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/19 03:56:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/19 04:02:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/19 04:05:29,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/19 05:02:21,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/19 05:06:15,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/19 05:17:13,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/19 05:20:02,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/19 05:42:24,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/19 05:42:24,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/19 05:52:23,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/19 06:00:01,Cleared,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/19 06:02:01,Occurred,Waiting
+16,I49,AHU27 Supply Flow Fail,On,1.000000,2023/04/19 06:02:01,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/19 06:02:01,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/19 06:02:28,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/19 07:00:00,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/19 07:00:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/19 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/19 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/19 07:02:02,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/19 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/19 07:02:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/19 07:02:51,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/19 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/19 07:37:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/19 07:40:04,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/19 07:50:14,Cleared,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/19 07:59:15,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/19 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/19 08:05:02,Cleared,Waiting
+21,I8,AHU10 Extract Filter Dirty,On,0.000000,2023/04/19 08:06:28,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/19 08:07:03,Occurred,Waiting
+21,I8,AHU10 Extract Filter Dirty,On,1.000000,2023/04/19 08:08:02,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/19 09:02:10,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/19 09:15:00,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/19 09:37:01,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/19 10:11:54,Occurred,Waiting
+13,I52,AHU15 Supply Flow Fail,On,1.000000,2023/04/19 10:14:48,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/19 10:17:33,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/19 10:26:22,Occurred,Waiting
+16,I49,AHU27 Supply Flow Fail,On,0.000000,2023/04/19 11:13:18,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/19 11:15:20,Occurred,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/19 11:55:22,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/19 14:05:01,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/19 15:00:00,Cleared,Waiting
+13,I52,AHU15 Supply Flow Fail,On,0.000000,2023/04/19 15:10:02,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/19 16:41:25,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/19 16:45:01,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/19 16:47:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/19 17:02:49,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/19 17:22:29,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/19 17:30:02,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/19 18:37:14,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/19 18:40:02,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/19 18:45:02,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/19 20:42:01,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/19 21:00:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/19 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/19 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/19 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/19 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/19 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/19 21:10:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/19 21:17:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/19 21:38:03,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/19 22:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/19 22:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/19 22:05:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/19 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/19 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/19 22:07:02,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/19 22:07:22,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/19 22:40:08,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/19 23:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/19 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/19 23:10:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/19 23:10:02,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/19 23:20:01,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/19 23:32:01,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/19 23:35:04,Cleared,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/20 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/20 00:00:00,Cleared,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,1.000000,2023/04/20 00:02:01,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,0.000000,2023/04/20 00:05:01,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/20 00:09:01,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/20 00:59:27,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/20 04:01:16,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/20 04:02:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/20 05:02:21,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/20 05:37:02,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/20 05:37:17,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/20 05:52:24,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/20 05:52:24,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/20 05:57:22,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/20 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/20 06:02:28,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/20 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/20 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/20 07:00:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/20 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/20 07:02:02,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/20 07:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/20 07:02:03,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/20 07:02:50,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/20 07:10:48,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/20 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/20 07:32:03,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/20 07:37:01,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/20 08:01:21,Occurred,Waiting
+13,I52,AHU15 Supply Flow Fail,On,1.000000,2023/04/20 08:02:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/20 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/20 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/20 08:07:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/20 08:23:02,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/20 08:37:10,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/20 09:37:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/20 10:46:12,Cleared,Waiting
+13,I52,AHU15 Supply Flow Fail,On,0.000000,2023/04/20 10:52:09,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/20 12:05:22,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/20 14:05:02,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/20 15:35:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/20 16:47:01,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/20 17:02:50,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/20 17:10:02,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/20 17:15:01,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/20 18:11:04,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/20 18:17:12,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/20 18:20:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/20 20:47:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/20 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/20 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/20 21:02:01,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/20 21:05:02,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/20 21:06:25,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/20 21:37:18,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/20 22:02:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/20 22:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/20 22:05:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/20 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/20 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/20 22:07:03,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/20 22:30:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/20 22:35:08,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/20 22:42:03,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/20 23:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/20 23:05:00,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/20 23:10:01,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/20 23:15:01,Cleared,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/21 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/21 00:00:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/21 00:00:03,Cleared,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,1.000000,2023/04/21 00:02:01,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,0.000000,2023/04/21 00:05:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/21 00:05:02,Cleared,Waiting
+21,I4,AHU07 Extract Filter Dirty,On,1.000000,2023/04/21 00:21:57,Cleared,Waiting
+21,I4,AHU07 Extract Filter Dirty,On,1.000000,2023/04/21 00:22:50,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/21 02:57:31,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/21 03:45:05,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/21 03:52:01,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/21 03:56:16,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/21 05:02:22,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/21 05:42:27,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/21 05:52:22,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/21 05:57:22,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/21 05:57:22,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/21 06:02:01,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/21 06:02:01,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/21 06:02:30,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/21 06:42:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/21 06:56:46,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/21 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/21 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/21 07:00:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/21 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/21 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/21 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/21 07:20:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/21 07:27:03,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/21 08:01:21,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/21 08:01:25,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/21 08:02:01,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/21 08:02:02,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/21 08:02:12,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/21 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/21 08:07:02,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/21 09:32:01,Occurred,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/21 12:05:21,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/21 15:52:50,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/21 17:20:01,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/21 18:27:11,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/21 18:30:00,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/21 20:24:53,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/21 20:25:02,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/21 20:28:09,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/21 20:28:15,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/21 20:52:02,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/21 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/21 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/21 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/21 21:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/21 21:02:02,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/21 21:05:02,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/21 21:10:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/21 21:17:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/21 22:02:02,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/21 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/21 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/21 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/21 22:07:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/21 22:10:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/21 22:45:09,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/21 23:00:01,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/21 23:05:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/21 23:05:02,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/21 23:10:00,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/21 23:10:02,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/21 23:32:02,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/22 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/22 00:00:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/22 00:00:33,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/22 04:01:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/22 04:02:03,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/22 05:02:23,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/22 05:37:24,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/22 05:37:24,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/22 05:52:18,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/22 05:57:23,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/22 06:02:02,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/22 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/22 06:02:29,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/22 06:12:02,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/22 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/22 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/22 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/22 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/22 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/22 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/22 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/22 07:37:02,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/22 08:01:21,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/22 08:01:25,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/22 08:02:01,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/22 08:02:12,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/22 08:05:02,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/22 08:07:02,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/22 08:07:02,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/22 09:32:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/22 11:58:15,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/22 12:00:21,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/22 13:15:13,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/22 13:17:29,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/22 13:18:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/22 13:18:41,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,1.000000,2023/04/22 14:12:57,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,1.000000,2023/04/22 14:12:58,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/22 14:15:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/22 16:52:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/22 16:57:48,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/22 17:35:02,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/22 20:32:02,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/22 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/22 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/22 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/22 21:02:03,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/22 21:02:03,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/22 21:05:01,Cleared,Waiting
+16,S22,AHU29 Supply Temp,Out of Limits,142.921814,2023/04/22 21:15:05,Cleared,Waiting
+16,S5,Meeting Room 3 CO2,Out of Limits,2002.800049,2023/04/22 21:15:05,Cleared,Waiting
+16,S3,Meeting Room 1 CO2,Out of Limits,2004.000244,2023/04/22 21:15:05,Cleared,Waiting
+16,S22,AHU29 Supply Temp,Out of Limits,142.852249,2023/04/22 21:16:05,Occurred,Waiting
+16,S5,Meeting Room 3 CO2,Out of Limits,2003.400146,2023/04/22 21:16:05,Occurred,Waiting
+16,S3,Meeting Room 1 CO2,Out of Limits,2004.000244,2023/04/22 21:16:05,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/22 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/22 21:32:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/22 21:49:56,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/22 22:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/22 22:02:02,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/22 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/22 22:05:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/22 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/22 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/22 22:07:01,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/22 22:55:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/22 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/22 23:10:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/22 23:10:02,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/22 23:12:01,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/22 23:20:01,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/22 23:40:22,Cleared,Waiting
+21,I38,AHU11 ExtractFlow Fail,On,1.000000,2023/04/22 23:42:02,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/23 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/23 00:00:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/23 00:00:03,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/23 00:05:08,Cleared,Waiting
+21,I38,AHU11 ExtractFlow Fail,On,0.000000,2023/04/23 00:05:15,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/23 00:20:40,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/23 04:01:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/23 04:07:01,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/23 05:02:21,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/23 05:47:24,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/23 05:47:24,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,0.000000,2023/04/23 05:51:14,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,0.000000,2023/04/23 05:51:14,Cleared,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/23 05:52:20,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/23 05:57:23,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/23 06:02:02,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/23 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/23 06:02:28,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/23 06:50:31,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/23 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/23 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/23 07:00:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/23 07:02:01,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/23 07:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/23 07:02:03,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/23 07:02:03,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/23 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/23 07:32:03,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/23 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/23 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/23 08:07:01,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/23 08:22:50,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/23 08:34:38,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/23 08:55:19,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/23 08:57:12,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/23 09:00:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/23 09:15:39,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/23 09:27:02,Occurred,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/23 12:05:22,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,1.000000,2023/04/23 12:31:41,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,1.000000,2023/04/23 12:31:41,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/23 12:40:55,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/23 12:40:55,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/23 13:15:11,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/23 13:21:04,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/23 13:50:01,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/23 13:57:47,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/23 16:52:49,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/23 16:57:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/23 17:20:01,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/23 18:57:13,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/23 19:00:02,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/23 19:26:28,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/23 20:47:01,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/23 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/23 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/23 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/23 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/23 21:02:03,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/23 21:05:00,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/23 21:15:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/23 21:22:03,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/23 22:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/23 22:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/23 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/23 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/23 22:07:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/23 22:10:02,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/23 22:45:00,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/23 23:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/23 23:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/23 23:05:09,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/23 23:07:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/23 23:10:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/23 23:15:02,Cleared,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,0.000000,2023/04/23 23:49:51,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,0.000000,2023/04/23 23:49:51,Cleared,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/24 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/24 00:00:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/24 00:00:03,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/24 00:01:11,Cleared,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,1.000000,2023/04/24 00:02:01,Occurred,Waiting
+21,I38,AHU11 ExtractFlow Fail,On,1.000000,2023/04/24 00:02:01,Occurred,Waiting
+21,I38,AHU11 ExtractFlow Fail,On,0.000000,2023/04/24 00:05:00,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/24 00:05:02,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/24 00:06:30,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,0.000000,2023/04/24 00:10:26,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/24 03:57:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/24 04:01:17,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/24 05:02:21,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/24 05:47:23,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/24 06:02:02,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/24 06:02:02,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/24 06:02:24,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/24 06:02:24,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/24 06:02:29,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/24 06:17:02,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/24 06:55:00,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/24 06:57:01,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/24 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/24 07:00:01,Cleared,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/24 07:00:35,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/24 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/24 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/24 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/24 07:32:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/24 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/24 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/24 08:07:04,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/24 09:25:01,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/24 09:47:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/24 10:55:08,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/24 12:05:21,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/24 14:15:02,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/24 15:45:05,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/24 16:42:50,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/24 16:52:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/24 17:35:01,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/24 17:57:11,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/24 18:00:02,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/24 20:15:35,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/24 20:22:06,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/24 20:40:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/24 20:42:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/24 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/24 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/24 21:02:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/24 21:02:02,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/24 21:05:02,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/24 21:25:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/24 21:32:01,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/24 21:35:00,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/24 21:37:14,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/24 21:40:02,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/24 22:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/24 22:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/24 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/24 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/24 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/24 22:07:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/24 22:35:10,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/24 23:05:01,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/24 23:05:01,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/24 23:10:01,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/24 23:45:35,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/24 23:52:02,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/25 00:00:00,Cleared,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,1.000000,2023/04/25 00:02:01,Occurred,Waiting
+21,I33,AHU10 Supply Flow Fail,On,1.000000,2023/04/25 00:12:02,Occurred,Waiting
+20,I49,AC ALARM,On,1.000000,2023/04/25 01:29:37,Occurred,Waiting
+20,I49,AC ALARM,On,0.000000,2023/04/25 03:36:31,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/25 03:57:01,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/25 04:01:17,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/25 05:02:22,Occurred,Waiting
+16,I49,AHU27 Supply Flow Fail,On,1.000000,2023/04/25 05:47:01,Occurred,Waiting
+16,I49,AHU27 Supply Flow Fail,On,0.000000,2023/04/25 05:49:45,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/25 05:51:47,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/25 05:51:47,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/25 06:02:01,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/25 06:02:03,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/25 06:02:22,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/25 06:02:28,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,0.000000,2023/04/25 06:35:00,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,0.000000,2023/04/25 06:35:00,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/25 06:57:02,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/25 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/25 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/25 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/25 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/25 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/25 07:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/25 07:17:09,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/25 07:30:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/25 07:31:21,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/25 07:37:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/25 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/25 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/25 08:07:03,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/25 09:37:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/25 11:07:43,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/25 11:50:21,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/25 13:19:30,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/25 13:29:55,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/25 14:15:01,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/25 14:52:42,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/25 14:58:39,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/25 15:47:36,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/25 15:57:50,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/25 16:01:10,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,1.000000,2023/04/25 16:06:20,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,1.000000,2023/04/25 16:06:20,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/25 16:37:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/25 16:37:13,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/25 17:00:53,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/25 17:20:28,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/25 17:57:13,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/25 18:00:02,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/25 18:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/25 20:57:01,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/25 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/25 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/25 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/25 21:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/25 21:02:02,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/25 21:05:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/25 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/25 21:32:03,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/25 22:00:02,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/25 22:02:02,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/25 22:02:13,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/25 22:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/25 22:05:02,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/25 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/25 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/25 22:07:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/25 22:40:09,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/25 22:50:01,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/25 23:00:01,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/25 23:05:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/25 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/25 23:10:02,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/25 23:30:03,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/25 23:42:01,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/25 23:46:26,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/26 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/26 00:02:13,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/26 00:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/26 03:56:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/26 04:02:01,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/26 05:02:22,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/26 05:17:11,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/26 05:20:01,Cleared,Waiting
+16,I49,AHU27 Supply Flow Fail,On,1.000000,2023/04/26 05:42:03,Occurred,Waiting
+16,I49,AHU27 Supply Flow Fail,On,0.000000,2023/04/26 05:44:40,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/26 05:46:41,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/26 05:46:41,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/26 05:52:23,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/26 06:02:01,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/26 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/26 06:02:30,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/26 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/26 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/26 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/26 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/26 07:02:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/26 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/26 07:02:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/26 07:02:49,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/26 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/26 07:37:03,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/26 07:40:04,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/26 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/26 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/26 08:07:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/26 08:49:02,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/26 08:58:32,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/26 08:58:40,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/26 08:59:47,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/26 09:37:02,Occurred,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/26 11:55:22,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/26 14:05:02,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/26 15:21:07,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/26 15:25:22,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/26 16:18:55,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/26 16:41:26,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/26 16:45:07,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/26 16:47:01,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/26 17:02:50,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/26 17:22:15,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/26 17:30:01,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/26 17:59:23,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/26 18:08:57,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/26 18:37:12,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/26 18:40:01,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/26 19:45:01,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/04/26 20:20:04,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/26 20:20:05,Cleared,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,0.000000,2023/04/26 20:20:06,Cleared,Waiting
+21,I8,AHU10 Extract Filter Dirty,On,0.000000,2023/04/26 20:20:06,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/26 20:20:09,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/26 20:20:09,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/26 20:20:09,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/26 20:20:09,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/26 20:20:09,Cleared,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/26 20:20:10,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/26 20:20:11,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/26 20:20:15,Cleared,Waiting
+11,I21,Fire Alarm Active,On,1.000000,2023/04/26 20:21:05,Occurred,Waiting
+16,I3,Fire Alarm Active,On,1.000000,2023/04/26 20:21:10,Occurred,Waiting
+17,I26,Non Food Flow Fail,On,1.000000,2023/04/26 20:21:10,Occurred,Waiting
+11,I21,Fire Alarm Active,On,0.000000,2023/04/26 20:21:12,Cleared,Waiting
+16,I3,Fire Alarm Active,On,0.000000,2023/04/26 20:21:12,Cleared,Waiting
+17,I26,Non Food Flow Fail,On,0.000000,2023/04/26 20:21:14,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/04/26 20:21:21,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/26 20:22:22,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/04/26 20:22:28,Occurred,Waiting
+21,I8,AHU10 Extract Filter Dirty,On,1.000000,2023/04/26 20:22:38,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/04/26 20:23:09,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/26 20:23:09,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/26 20:23:14,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/26 20:23:17,Occurred,Waiting
+21,I34,AHU10 ExtractFlow Fail,On,1.000000,2023/04/26 20:23:32,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/26 20:23:34,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/26 20:23:36,Occurred,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/26 20:23:36,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/26 20:23:37,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/26 20:42:00,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/26 21:00:01,Cleared,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/26 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/26 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/26 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/26 21:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/26 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/26 21:10:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/26 21:17:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/26 22:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/26 22:02:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/26 22:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/26 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/26 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/26 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/26 22:07:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/26 22:40:07,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/26 23:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/26 23:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/26 23:10:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/26 23:10:02,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/26 23:20:00,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/26 23:32:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/26 23:35:04,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/27 00:00:00,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/04/27 00:05:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/04/27 00:05:01,Cleared,Waiting
+20,I49,AC ALARM,On,1.000000,2023/04/27 00:36:18,Occurred,Waiting
+20,I49,AC ALARM,On,0.000000,2023/04/27 01:13:30,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/27 04:01:16,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/27 04:02:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/27 05:02:22,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/27 05:37:01,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/27 05:52:24,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/27 05:52:25,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/27 05:57:23,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/27 06:02:03,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/27 06:02:30,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/27 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/27 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/27 07:00:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/27 07:02:01,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/27 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/27 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/27 07:02:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/27 07:02:52,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/27 07:03:54,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/27 07:10:49,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/27 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/27 07:32:04,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/27 08:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/27 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/27 08:07:03,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/27 09:37:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/27 10:59:45,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/27 12:05:21,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/27 14:05:02,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/27 16:31:32,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/27 16:47:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/27 17:02:49,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/27 17:10:00,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/27 18:17:12,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/27 18:20:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/27 20:47:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/27 21:00:00,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/27 21:00:00,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/27 21:02:02,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/27 21:05:01,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/27 21:06:25,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/27 21:37:19,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/27 22:02:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/27 22:05:00,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/27 22:05:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/27 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/27 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/27 22:07:01,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/27 22:30:01,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/27 22:35:10,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/27 22:42:02,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/27 23:00:02,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/27 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/27 23:10:02,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/27 23:15:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/28 00:00:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/28 00:00:20,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/28 00:16:13,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/28 00:30:20,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/28 03:21:52,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/28 03:52:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/28 03:52:32,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/28 03:52:33,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/28 03:53:54,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/28 03:56:16,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/28 05:02:22,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/28 05:52:22,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/28 05:57:25,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/28 05:57:25,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/28 06:02:00,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/28 06:02:01,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/28 06:02:29,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/28 06:42:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/28 06:50:51,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/28 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/28 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/28 07:00:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/28 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/28 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/28 07:02:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/28 07:03:17,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/28 07:20:00,Cleared,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/28 07:20:50,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/28 07:27:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/28 08:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/28 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/28 08:07:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/28 08:33:25,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/28 09:32:02,Occurred,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/28 12:05:21,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/28 15:52:50,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/28 17:20:02,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/28 18:27:14,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/28 18:30:02,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/28 20:52:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/28 21:00:00,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/28 21:00:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/28 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/28 21:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/28 21:02:02,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/28 21:05:02,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/28 21:10:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/28 21:17:03,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/28 22:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/28 22:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/28 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/28 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/28 22:07:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/28 22:10:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/28 22:45:09,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/28 23:00:00,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/28 23:05:00,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/28 23:05:01,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/28 23:10:00,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/28 23:10:01,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/28 23:32:01,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/29 00:00:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/29 00:00:33,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/29 01:38:36,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/29 04:01:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/29 04:02:03,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/29 05:02:22,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/29 05:37:23,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/29 05:37:23,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/29 05:57:23,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/29 06:02:01,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/29 06:02:01,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/29 06:02:30,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/29 06:12:01,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/29 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/29 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/29 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/29 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/29 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/29 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/29 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/29 07:37:03,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/29 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/29 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/29 08:07:02,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/29 09:32:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/29 09:47:16,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/29 12:00:21,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/29 12:38:25,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/29 12:40:28,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/29 13:13:06,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/29 13:13:06,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/29 13:13:06,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/29 13:13:06,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/29 13:13:06,Cleared,Waiting
+16,R1,Gnd & Mezz HVAC,Restart,0.000000,2023/04/29 13:13:07,Occurred,Sent
+16,I1,CP3 Service Required,On,1.000000,2023/04/29 13:13:07,Cleared,Waiting
+16,S22,AHU29 Supply Temp,Out of Limits,142.782684,2023/04/29 13:13:08,Cleared,Waiting
+16,S5,Meeting Room 3 CO2,Out of Limits,2002.800049,2023/04/29 13:13:08,Cleared,Waiting
+16,S3,Meeting Room 1 CO2,Out of Limits,2003.000000,2023/04/29 13:13:08,Cleared,Waiting
+17,I40,KS02-02 Supply Flow Fail,On,1.000000,2023/04/29 13:13:38,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/29 13:13:39,Cleared,Waiting
+17,R1,Gnd & Mezz AHU,Restart,0.000000,2023/04/29 13:13:40,Occurred,Sent
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/29 13:14:06,Occurred,Waiting
+16,I1,CP3 Service Required,On,1.000000,2023/04/29 13:14:07,Occurred,Waiting
+16,S22,AHU29 Supply Temp,Out of Limits,142.852249,2023/04/29 13:14:08,Occurred,Waiting
+16,S5,Meeting Room 3 CO2,Out of Limits,2003.200073,2023/04/29 13:14:08,Occurred,Waiting
+16,S3,Meeting Room 1 CO2,Out of Limits,2004.000244,2023/04/29 13:14:08,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/29 13:15:08,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/29 13:15:09,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/29 13:15:29,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/29 13:15:31,Occurred,Waiting
+17,I40,KS02-02 Supply Flow Fail,On,1.000000,2023/04/29 13:15:42,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/29 13:16:04,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/04/29 14:06:46,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/04/29 14:08:13,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/29 14:15:00,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/29 15:48:45,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/29 16:11:48,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/29 16:52:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/29 16:57:48,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/29 17:15:43,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/29 17:15:43,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/29 17:15:43,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/29 17:15:43,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/29 17:15:43,Cleared,Waiting
+16,I1,CP3 Service Required,On,1.000000,2023/04/29 17:15:45,Cleared,Waiting
+16,R1,Gnd & Mezz HVAC,Restart,0.000000,2023/04/29 17:15:46,Occurred,Sent
+16,S22,AHU29 Supply Temp,Out of Limits,142.921814,2023/04/29 17:15:47,Cleared,Waiting
+16,S5,Meeting Room 3 CO2,Out of Limits,2003.000000,2023/04/29 17:15:47,Cleared,Waiting
+16,S3,Meeting Room 1 CO2,Out of Limits,2003.200073,2023/04/29 17:15:47,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/29 17:16:43,Occurred,Waiting
+16,I1,CP3 Service Required,On,1.000000,2023/04/29 17:16:45,Occurred,Waiting
+16,S22,AHU29 Supply Temp,Out of Limits,142.921814,2023/04/29 17:16:48,Occurred,Waiting
+16,S5,Meeting Room 3 CO2,Out of Limits,2003.000000,2023/04/29 17:16:48,Occurred,Waiting
+16,S3,Meeting Room 1 CO2,Out of Limits,2004.000244,2023/04/29 17:16:48,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/29 17:17:49,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/29 17:17:49,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/29 17:18:08,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/29 17:18:09,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/29 17:35:02,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/29 18:05:08,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/29 19:35:55,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/29 20:32:01,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/29 21:00:00,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/29 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/29 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/29 21:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/29 21:02:01,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/29 21:05:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/29 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/29 21:32:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/29 21:55:39,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/29 21:55:58,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/29 21:59:53,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/29 22:00:00,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/29 22:00:31,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/29 22:02:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/29 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/29 22:05:01,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/29 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/29 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/29 22:07:03,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/29 22:08:25,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/04/29 22:12:25,Occurred,Waiting
+11,I55,AHU9 Extract Fan 1+2 Fail,On,1.000000,2023/04/29 22:12:25,Occurred,Waiting
+11,I55,AHU9 Extract Fan 1+2 Fail,On,0.000000,2023/04/29 22:35:36,Cleared,Waiting
+11,I55,AHU9 Extract Fan 1+2 Fail,On,1.000000,2023/04/29 22:37:40,Occurred,Waiting
+11,I55,AHU9 Extract Fan 1+2 Fail,On,0.000000,2023/04/29 22:45:01,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/29 22:55:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/29 23:05:02,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/29 23:10:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/29 23:10:02,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/29 23:12:02,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/29 23:20:00,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/29 23:41:09,Cleared,Waiting
+21,I38,AHU11 ExtractFlow Fail,On,1.000000,2023/04/29 23:42:02,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/04/30 00:00:00,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/04/30 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/04/30 00:00:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/30 00:00:03,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/30 00:05:08,Cleared,Waiting
+21,I38,AHU11 ExtractFlow Fail,On,0.000000,2023/04/30 00:05:15,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/30 00:10:04,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/04/30 01:32:32,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/04/30 04:01:17,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/04/30 04:07:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/04/30 05:02:22,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/30 05:39:06,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/30 05:42:45,Occurred,Waiting
+16,I49,AHU27 Supply Flow Fail,On,1.000000,2023/04/30 05:47:39,Occurred,Waiting
+16,I49,AHU27 Supply Flow Fail,On,0.000000,2023/04/30 05:51:00,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/04/30 05:53:01,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/04/30 05:53:01,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/04/30 05:57:24,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/04/30 06:02:02,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/04/30 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/04/30 06:02:30,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/30 06:56:25,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/30 07:00:00,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/30 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/30 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/04/30 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/30 07:02:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/30 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/30 07:02:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/04/30 07:05:57,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/30 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/30 07:32:03,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/04/30 07:34:32,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/30 08:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/30 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/30 08:07:03,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/30 08:22:49,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/04/30 08:55:18,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/30 08:57:13,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/30 09:00:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/30 09:27:01,Occurred,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/04/30 12:05:22,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/30 13:50:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/30 15:54:08,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/30 15:56:40,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/04/30 16:52:49,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/04/30 16:57:02,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/30 17:20:02,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/04/30 18:57:14,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/04/30 19:00:02,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/04/30 20:47:02,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/04/30 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/04/30 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/04/30 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/04/30 21:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/04/30 21:02:03,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/04/30 21:05:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/04/30 21:15:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/04/30 21:22:04,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/04/30 22:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/04/30 22:02:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/04/30 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/04/30 22:05:01,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/04/30 22:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/04/30 22:07:01,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/04/30 22:10:01,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/04/30 22:45:00,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/04/30 23:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/04/30 23:05:02,Cleared,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/04/30 23:05:08,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/04/30 23:07:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/04/30 23:10:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/04/30 23:15:02,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/05/01 00:00:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/05/01 00:00:03,Cleared,Waiting
+21,I38,AHU11 ExtractFlow Fail,On,1.000000,2023/05/01 00:02:01,Occurred,Waiting
+21,I38,AHU11 ExtractFlow Fail,On,0.000000,2023/05/01 00:05:00,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,0.000000,2023/05/01 00:05:01,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,1.000000,2023/05/01 00:12:02,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/05/01 03:57:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/05/01 04:01:15,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/01 04:36:35,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/05/01 05:02:22,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/05/01 05:42:46,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/05/01 05:47:23,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/05/01 06:02:01,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/05/01 06:02:02,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/05/01 06:02:24,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/05/01 06:02:24,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/05/01 06:02:30,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/05/01 06:17:00,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/05/01 06:55:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/05/01 06:57:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/05/01 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/05/01 07:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/05/01 07:02:01,Occurred,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/05/01 07:02:03,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/01 07:14:41,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/01 07:23:41,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/05/01 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/05/01 07:32:03,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/05/01 08:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/05/01 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/05/01 08:07:01,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/01 08:15:26,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/05/01 09:25:01,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/05/01 09:47:01,Occurred,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/05/01 12:05:21,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/05/01 14:15:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/05/01 16:42:48,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/05/01 16:52:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/05/01 17:35:02,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/05/01 17:57:13,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/05/01 18:00:02,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/05/01 20:15:34,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/05/01 20:22:04,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/05/01 20:40:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/05/01 20:42:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/05/01 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/05/01 21:00:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/05/01 21:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/05/01 21:02:01,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/05/01 21:05:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/05/01 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/05/01 21:32:02,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/05/01 21:35:01,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/05/01 21:37:14,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/05/01 21:40:01,Cleared,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/05/01 22:00:00,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/05/01 22:02:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/05/01 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/05/01 22:05:01,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/05/01 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/05/01 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/05/01 22:07:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/05/01 22:35:08,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/05/01 23:05:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/05/01 23:05:02,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/05/01 23:10:00,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/05/01 23:45:34,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/05/01 23:52:01,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/05/02 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/05/02 00:00:00,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,0.000000,2023/05/02 00:05:01,Cleared,Waiting
+21,I33,AHU10 Supply Flow Fail,On,1.000000,2023/05/02 00:12:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/02 02:20:26,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/02 02:27:57,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/02 03:39:37,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/05/02 03:57:02,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/05/02 04:01:16,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/02 04:20:36,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/02 04:35:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/02 04:36:09,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/05/02 05:02:22,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/05/02 05:32:20,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/05/02 05:47:25,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/05/02 05:47:25,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/05/02 06:02:01,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/05/02 06:02:03,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/05/02 06:02:23,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/05/02 06:02:28,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/05/02 06:57:01,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/05/02 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/05/02 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/05/02 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/05/02 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/05/02 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/05/02 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/05/02 07:30:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/05/02 07:37:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/05/02 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/05/02 08:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/05/02 08:07:02,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/05/02 09:01:21,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/05/02 09:02:00,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/05/02 09:37:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/05/02 11:23:42,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/05/02 11:50:22,Cleared,Waiting
+17,I24,GV2 Gas Safety Active,On,1.000000,2023/05/02 11:54:47,Occurred,Waiting
+17,I24,GV2 Gas Safety Active,On,0.000000,2023/05/02 11:55:05,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/05/02 14:15:01,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/05/02 15:57:50,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/05/02 16:37:02,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/05/02 17:57:11,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/05/02 18:00:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/05/02 18:05:02,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/05/02 20:57:01,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/05/02 21:00:00,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/05/02 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/05/02 21:00:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/05/02 21:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/05/02 21:02:01,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/05/02 21:05:01,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/05/02 21:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/05/02 21:32:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/02 21:52:28,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/05/02 22:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/05/02 22:02:02,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/05/02 22:02:12,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/05/02 22:05:01,Cleared,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/05/02 22:05:02,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/05/02 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/05/02 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/05/02 22:07:03,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/05/02 22:40:10,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/05/02 22:50:00,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/05/02 23:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/05/02 23:05:01,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/05/02 23:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/05/02 23:10:02,Cleared,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/05/02 23:30:04,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/05/02 23:42:02,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/05/02 23:46:25,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/05/03 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/05/03 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/05/03 00:02:15,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/05/03 00:05:01,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/05/03 00:05:02,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/03 00:10:39,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/03 00:38:15,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/05/03 03:56:15,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/05/03 04:02:03,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/05/03 05:02:22,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/05/03 05:17:14,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/05/03 05:20:02,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/05/03 05:42:24,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/05/03 05:42:25,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/05/03 05:50:11,Cleared,Waiting
+16,I49,AHU27 Supply Flow Fail,On,1.000000,2023/05/03 05:52:11,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/05/03 05:52:23,Occurred,Waiting
+16,I49,AHU27 Supply Flow Fail,On,0.000000,2023/05/03 05:52:36,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/05/03 05:54:37,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/05/03 06:02:01,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/05/03 06:02:02,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/05/03 06:02:30,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/05/03 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/05/03 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/05/03 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/05/03 07:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/05/03 07:02:01,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/05/03 07:02:01,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/05/03 07:02:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/05/03 07:02:50,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/05/03 07:12:18,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/05/03 07:30:00,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/05/03 07:37:02,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/05/03 07:40:03,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/05/03 08:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/05/03 08:05:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/05/03 08:07:02,Occurred,Waiting
+13,I56,AHU17 Supply Flow Fail,On,1.000000,2023/05/03 08:20:37,Occurred,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,1.000000,2023/05/03 08:21:59,Occurred,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,1.000000,2023/05/03 08:23:02,Occurred,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,1.000000,2023/05/03 08:23:23,Occurred,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/05/03 09:37:02,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/03 10:02:58,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,0.000000,2023/05/03 11:55:22,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/05/03 14:05:00,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,1.000000,2023/05/03 16:47:01,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/05/03 17:02:50,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/05/03 17:30:00,Cleared,Waiting
+16,I41,AHU24 Supply Flow Fail,On,1.000000,2023/05/03 18:37:13,Occurred,Waiting
+16,I41,AHU24 Supply Flow Fail,On,0.000000,2023/05/03 18:40:01,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/03 20:00:02,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/05/03 20:42:01,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/05/03 21:00:01,Cleared,Waiting
+16,I54,AHU29 Supply Flow Fail,On,0.000000,2023/05/03 21:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/05/03 21:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/05/03 21:00:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/05/03 21:02:01,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/05/03 21:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/05/03 21:10:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/05/03 21:17:02,Occurred,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,1.000000,2023/05/03 22:02:02,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,0.000000,2023/05/03 22:05:01,Cleared,Waiting
+17,I29,AHU30 Supply Flow Fail,On,0.000000,2023/05/03 22:05:01,Cleared,Waiting
+13,I46,AHU13 Supply Flow Fail,On,0.000000,2023/05/03 22:05:02,Cleared,Waiting
+20,I28,AHU3 Supply Flow Fail,On,0.000000,2023/05/03 22:05:02,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,1.000000,2023/05/03 22:07:03,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/05/03 22:07:23,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,0.000000,2023/05/03 22:40:09,Cleared,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,0.000000,2023/05/03 23:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,0.000000,2023/05/03 23:05:01,Cleared,Waiting
+17,I27,SF01 Fan Flow Fail,On,0.000000,2023/05/03 23:10:02,Cleared,Waiting
+21,I45,KS03 Supply Flow Fail,On,0.000000,2023/05/03 23:10:02,Cleared,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/05/03 23:20:00,Cleared,Waiting
+21,I30,AHU7 ExtractFlow Fail,On,1.000000,2023/05/03 23:32:01,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/05/03 23:35:50,Cleared,Waiting
+11,I54,AHU9 Duty Fan Fail,On,0.000000,2023/05/04 00:00:00,Cleared,Waiting
+14,I40,AHU20 ExtractFlow Fail,On,0.000000,2023/05/04 00:00:00,Cleared,Waiting
+16,I50,AHU27 Duty Fan Fail,On,0.000000,2023/05/04 00:00:00,Cleared,Waiting
+14,I16,AHU21 Supply Filter Dirty,On,0.000000,2023/05/04 00:02:29,Cleared,Waiting
+13,I56,AHU17 Supply Flow Fail,On,0.000000,2023/05/04 00:05:02,Cleared,Waiting
+14,I4,AHU19 Supply Filter Dirty,On,0.000000,2023/05/04 00:05:02,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/04 00:35:52,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/04 00:38:53,Occurred,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/04 03:48:50,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,1.000000,2023/05/04 03:55:25,Occurred,Waiting
+14,I31,KS05 Supply Filter Dirty,On,1.000000,2023/05/04 04:01:15,Occurred,Waiting
+13,I46,AHU13 Supply Flow Fail,On,1.000000,2023/05/04 04:02:02,Occurred,Waiting
+17,I27,SF01 Fan Flow Fail,On,1.000000,2023/05/04 05:02:23,Occurred,Waiting
+16,I54,AHU29 Supply Flow Fail,On,1.000000,2023/05/04 05:37:02,Occurred,Waiting
+11,I54,AHU9 Duty Fan Fail,On,1.000000,2023/05/04 05:37:20,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,1.000000,2023/05/04 05:52:25,Occurred,Waiting
+16,I50,AHU27 Duty Fan Fail,On,1.000000,2023/05/04 05:52:25,Occurred,Waiting
+16,I38,AHU8 ExtractFlow Fail,On,1.000000,2023/05/04 05:57:23,Occurred,Waiting
+20,I28,AHU3 Supply Flow Fail,On,1.000000,2023/05/04 06:02:01,Occurred,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,1.000000,2023/05/04 06:02:29,Occurred,Waiting
+16,I51,AHU27 Extract Fan 1+2 Fail,On,0.000000,2023/05/04 06:28:22,Cleared,Waiting
+16,I49,AHU27 Supply Flow Fail,On,1.000000,2023/05/04 06:30:23,Occurred,Waiting
+11,I25,AHU4 Supply Flow Fail,On,0.000000,2023/05/04 07:00:01,Cleared,Waiting
+20,I21,AHU1 ExtractFlow Fail,On,0.000000,2023/05/04 07:00:01,Cleared,Waiting
+20,I20,AHU1 Supply Flow Fail,On,0.000000,2023/05/04 07:00:01,Cleared,Waiting
+11,I39,AHU32 Supply Flow Fail,On,1.000000,2023/05/04 07:02:02,Occurred,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,1.000000,2023/05/04 07:02:02,Occurred,Waiting
+16,I45,AHU26 Supply Flow Fail,On,1.000000,2023/05/04 07:02:02,Occurred,Waiting
+17,I29,AHU30 Supply Flow Fail,On,1.000000,2023/05/04 07:02:03,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,1.000000,2023/05/04 07:02:49,Occurred,Waiting
+21,I48,KE04 ExtractFlow Fail,On,0.000000,2023/05/04 07:10:47,Cleared,Waiting
+21,I12,AHU11 Extract Filter Dirty,On,0.000000,2023/05/04 07:16:57,Cleared,Waiting
+20,I33,AHU5 ExtractFlow Fail,On,0.000000,2023/05/04 07:23:11,Cleared,Waiting
+11,I26,AHU4 ExtractFlow Fail,On,0.000000,2023/05/04 07:25:01,Cleared,Waiting
+11,I25,AHU4 Supply Flow Fail,On,1.000000,2023/05/04 07:32:02,Occurred,Waiting

@@ -1,0 +1,456 @@
+Outstation,Item,Label,State,Alarm,
+11,I1,AHU04 Supply Filter Dirty,Off,No Alarm
+11,I2,AHU04 Extract Filter Dirty,Off,No Alarm
+11,I3,AHU04 Supply Fan Flow,On,No Alarm
+11,I4,AHU04 Extract Fan Flow,Off,No Alarm
+11,I5,AHU09 Supply Filter Dirty,Off,No Alarm
+11,I6,AHU09 Extract Filter Dirty,Off,No Alarm
+11,I7,AHU09 Supply Fan Flow,Off,No Alarm
+11,I8,AHU09 Extract Fan Flow,Off,No Alarm
+11,I9,AHU28 Supply Filter Dirty,Off,No Alarm
+11,I10,AHU28 Extract Filter Dirty,Off,No Alarm
+11,I10,AHU28 Extract Filter Dirty,Off,No Alarm
+11,I11,AHU28 Supply Fan Flow,Off,No Alarm
+11,I12,AHU28 Extract Fan Flow,Off,No Alarm
+11,I13,AHU32 Supply Filter Dirty,Off,No Alarm
+11,I14,AHU32 Extract Filter Dirty,Off,No Alarm
+11,I15,AHU32 Supply Fan Flow,Off,No Alarm
+11,I16,AHU32 Extract Fan Flow,Off,No Alarm
+11,I17,AHU35 Supply Filter Dirty,Off,No Alarm
+11,I18,AHU35 Extract Filter Dirty,Off,No Alarm
+11,I19,AHU35 Supply Fan Flow,On,No Alarm
+11,I20,AHU35 Extract Fan Flow,On,No Alarm
+11,I21,Fire Alarm Active,Off,No Alarm
+11,I22,CP1 Service Required,On,Digin
+11,I23,AHU4 Recoup in Heat Mode,Off,No Alarm
+11,I24,AHU4 Recoup in Cool Mode,Off,No Alarm
+11,I25,AHU4 Supply Flow Fail,On,Digin
+11,I26,AHU4 ExtractFlow Fail,Off,No Alarm
+11,I27,LV3 DBLPG1 Gym Elec Meter,Off,No Alarm
+11,I28,LV3 DBLPG2 Pool Elec Meter,Off,No Alarm
+11,I29,AHU9 Supply Flow Fail,Off,No Alarm
+11,I31,AHU9 Recoup in Heat Mode,Off,No Alarm
+11,I32,AHU9 Recoup in Cool Mode,Off,No Alarm
+11,I33,LV3 DBLPG3 Office Elec Meter,Off,No Alarm
+11,I34,LV3 Plant RM ISO Elec Meter,Off,No Alarm
+11,I35,AHU28 Supply Flow Fail,Off,No Alarm
+11,I36,AHU28 ExtractFlow Fail,Off,No Alarm
+11,I37,AHU28 Recoup in Heat Mode,Off,No Alarm
+11,I38,AHU28 Recoup in Cool Mode,Off,No Alarm
+11,I39,AHU32 Supply Flow Fail,On,Digin
+11,I40,AHU32 Duty Fan Fail,Off,No Alarm
+11,I40,AHU32 Duty Fan Fail,Off,No Alarm
+11,I41,AHU32 Extract Fan 1+2 Fail,Off,No Alarm
+11,I42,AHU32 Recoup in Heat Mode,Off,No Alarm
+11,I43,AHU32 Recoup in Cool Mode,Off,No Alarm
+11,I44,AHU35 Supply Flow Fail,Off,No Alarm
+11,I45,AHU35 ExtractFlow Fail,Off,No Alarm
+11,I46,AHU35 Recoup in Heat Mode,On,No Alarm
+11,I47,AHU35 Recoup in Cool Mode,Off,No Alarm
+11,I48,WR DBMW1 Gen LP Elec Meter,Off,No Alarm
+11,I49,LV3 CP1 Elec Meter,Off,No Alarm
+11,I50,LV3 DBSPA1 LP Elec Meter,Off,No Alarm
+11,I51,LPG DB8,Off,No Alarm
+11,I54,AHU9 Duty Fan Fail,Off,No Alarm
+11,I55,AHU9 Extract Fan 1+2 Fail,Off,No Alarm
+13,I1,CP2 Service Required,On,Digin
+13,I2,AHU13 Supply Filter Dirty,Off,No Alarm
+13,I3,AHU13 Extract Filter Dirty,Off,No Alarm
+13,I4,AHU13 Supply Fan Flow,Off,No Alarm
+13,I5,AHU13 Extract Fan Flow,Off,No Alarm
+13,I9,AHU14 Supply Filter Dirty,Off,No Alarm
+13,I10,AHU14 Supply Fan Flow,Off,No Alarm
+13,I11,AHU14 Extract Fan Flow,Off,No Alarm
+13,I15,AHU15 Supply Filter Dirty,Off,No Alarm
+13,I16,AHU15 Supply Fan Flow,Off,No Alarm
+13,I10,AHU14 Supply Fan Flow,Off,No Alarm
+13,I11,AHU14 Extract Fan Flow,Off,No Alarm
+13,I15,AHU15 Supply Filter Dirty,Off,No Alarm
+13,I16,AHU15 Supply Fan Flow,Off,No Alarm
+13,I17,AHU15 Extract Fan Flow,Off,No Alarm
+13,I21,AHU16 Supply Filter Dirty,Off,No Alarm
+13,I22,AHU16 Supply Fan Flow,Off,No Alarm
+13,I23,AHU16 Extract Fan Flow,Off,No Alarm
+13,I26,AHU14 Recirc in Heat Mode,Off,No Alarm
+13,I27,AHU17 Supply Filter Dirty,Off,No Alarm
+13,I21,AHU16 Supply Filter Dirty,Off,No Alarm
+13,I22,AHU16 Supply Fan Flow,Off,No Alarm
+13,I23,AHU16 Extract Fan Flow,Off,No Alarm
+13,I26,AHU14 Recirc in Heat Mode,Off,No Alarm
+13,I27,AHU17 Supply Filter Dirty,Off,No Alarm
+13,I28,AHU17 Supply Fan Flow,Off,No Alarm
+13,I29,AHU17 Extract Fan Flow,Off,No Alarm
+13,I30,AHU14 Recirc in Cool Mode,Off,No Alarm
+13,I31,AHU14 Recirc in Heat Mode,Off,No Alarm
+13,I32,AHU14 Recirc in Cool Mode,Off,No Alarm
+13,I30,AHU14 Recirc in Cool Mode,Off,No Alarm
+13,I31,AHU14 Recirc in Heat Mode,Off,No Alarm
+13,I32,AHU14 Recirc in Cool Mode,Off,No Alarm
+13,I33,AHU18 Supply Filter Dirty,Off,No Alarm
+13,I34,AHU18 Supply Fan Flow,On,No Alarm
+13,I35,AHU18 Extract Fan Flow,On,No Alarm
+13,I36,KS04 Supply Filter Dirty,Off,No Alarm
+13,I37,KS04 Supply Fan Flow,Off,No Alarm
+13,I38,AV Room Split System 1 Fault,Off,No Alarm
+13,I39,AV Room Split System 2 Fault,Off,No Alarm
+13,I40,Fire Alarm Active,Off,No Alarm
+13,I41,AHU16 Recirc in Heat Mode,Off,No Alarm
+13,I42,AHU13 Recoup in Heat Mode,On,No Alarm
+13,I43,AHU13 Recoup in Cool Mode,Off,No Alarm
+13,I44,AHU16 Recirc in Cool Mode,Off,No Alarm
+13,I45,KS04 Supply Flow Fail,Off,No Alarm
+13,I46,AHU13 Supply Flow Fail,On,Digin
+13,I47,AHU13 ExtractFlow Fail,Off,No Alarm
+13,I48,AHU16 Recirc in Heat Mode,Off,No Alarm
+13,I49,AHU16 Recirc in Cool Mode,Off,No Alarm
+13,I50,AHU14 Supply Flow Fail,Off,No Alarm
+13,I51,AHU14 ExtractFlow Fail,Off,No Alarm
+13,I52,AHU15 Supply Flow Fail,Off,No Alarm
+13,I53,AHU15 ExtractFlow Fail,Off,No Alarm
+13,I54,AHU16 Supply Flow Fail,Off,No Alarm
+13,I55,AHU16 ExtractFlow Fail,Off,No Alarm
+13,I56,AHU17 Supply Flow Fail,On,Digin
+13,I57,AHU17 ExtractFlow Fail,Off,No Alarm
+13,I58,AHU18 Supply Flow Fail,Off,No Alarm
+13,I59,AHU18 ExtractFlow Fail,Off,No Alarm
+13,I60,AHU16 Recirc in Heat Mode,Off,No Alarm
+14,I1,DB LV3 PL1 Gen LP Elec Meter,Off,No Alarm
+14,I2,DB LV9 6-Way Elec Meter,Off,No Alarm
+14,I3,GF Bar Gas Safety,On,Digin
+14,I4,AHU19 Supply Filter Dirty,On,Digin
+14,I5,AHU19 Supply Fan Flow,On,No Alarm
+14,I6,AHU19 Extract Fan Flow,On,No Alarm
+14,I7,Conference Kitchen Gas Safety,Off,No Alarm
+14,I8,M41 Electric Meter,Off,No Alarm
+14,I9,M43 Electric Meter,Off,No Alarm
+14,I10,AHU20 Supply Filter Dirty,Off,No Alarm
+14,I10,AHU20 Supply Filter Dirty,Off,No Alarm
+14,I11,AHU20 Supply Fan Flow,Off,No Alarm
+14,I12,AHU20 Extract Fan Flow,Off,No Alarm
+14,I14,AHU19 Recirc in Heat Mode,Off,No Alarm
+14,I15,AHU19 Recirc in Cool Mode,Off,No Alarm
+14,I16,AHU21 Supply Filter Dirty,On,Digin
+14,I17,AHU21 Supply Fan Flow,On,No Alarm
+14,I18,AHU21 Extract Fan Flow,On,No Alarm
+14,I19,AHU20 Recirc in Heat Mode,Off,No Alarm
+14,I20,AHU20 Recirc in Cool Mode,Off,No Alarm
+14,I20,AHU20 Recirc in Cool Mode,Off,No Alarm
+14,I21,AHU21 Recirc in Heat Mode,Off,No Alarm
+14,I22,AHU22 Supply Filter Dirty,Off,No Alarm
+14,I23,AHU22 Supply Fan Flow,Off,No Alarm
+14,I24,AHU22 Extract Fan Flow,Off,No Alarm
+14,I25,AHU21 Recirc in Cool Mode,Off,No Alarm
+14,I26,AHU22 Recirc in Heat Mode,Off,No Alarm
+14,I27,AHU22 Recirc in Cool Mode,Off,No Alarm
+14,I28,AHU23 Supply Filter Dirty,Off,No Alarm
+14,I29,AHU23 Supply Fan Flow,Off,No Alarm
+14,I30,AHU23 Extract Fan Flow,Off,No Alarm
+14,I31,KS05 Supply Filter Dirty,On,Digin
+14,I32,KS05 Supply Fan Flow,On,No Alarm
+14,I33,AHU23 Recirc in Heat Mode,Off,No Alarm
+14,I34,AHU23 Recirc in Cool Mode,Off,No Alarm
+14,I37,AHU19 Supply Flow Fail,Off,No Alarm
+14,I38,AHU19 ExtractFlow Fail,Off,No Alarm
+14,I39,AHU20 Supply Flow Fail,Off,No Alarm
+14,I40,AHU20 ExtractFlow Fail,Off,No Alarm
+14,I41,AHU21 Supply Flow Fail,Off,No Alarm
+14,I40,AHU20 ExtractFlow Fail,Off,No Alarm
+14,I41,AHU21 Supply Flow Fail,Off,No Alarm
+14,I42,AHU21 ExtractFlow Fail,Off,No Alarm
+14,I43,AHU22 Supply Flow Fail,Off,No Alarm
+14,I44,AHU22 ExtractFlow Fail,Off,No Alarm
+14,I45,AHU23 Supply Flow Fail,Off,No Alarm
+14,I46,AHU23 ExtractFlow Fail,Off,No Alarm
+14,I47,KS05 Supply Flow Fail,Off,No Alarm
+16,I1,CP3 Service Required,On,Digin
+16,I2,Sprinkler System Fault,Off,No Alarm
+16,I3,Fire Alarm Active,Off,No Alarm
+16,I5,AHU06 Supply Filter Dirty,Off,No Alarm
+16,I6,AHU06 Extract Filter Dirty,Off,No Alarm
+16,I7,AHU06 Supply Fan Flow,On,No Alarm
+16,I8,AHU06 Extract Fan Flow,On,No Alarm
+16,I9,AHU08 Supply Filter Dirty,Off,No Alarm
+16,I10,AHU08 Extract Filter Dirty,Off,No Alarm
+16,I11,AHU08 Supply Fan Flow,On,No Alarm
+16,I10,AHU08 Extract Filter Dirty,Off,No Alarm
+16,I11,AHU08 Supply Fan Flow,On,No Alarm
+16,I12,AHU08 Extract Fan Flow,Off,No Alarm
+16,I13,AHU24 Supply Filter Dirty,Off,No Alarm
+16,I14,AHU24 Extract Filter Dirty,Off,No Alarm
+16,I15,AHU24 Supply Fan Flow,On,No Alarm
+16,I16,AHU24 Extract Fan Flow,On,No Alarm
+16,I17,AHU26 Supply Filter Dirty,Off,No Alarm
+16,I18,AHU26 Extract Filter Dirty,Off,No Alarm
+16,I19,AHU26 Supply Fan Flow,Off,No Alarm
+16,I20,AHU26 Extract Fan Flow,Off,No Alarm
+16,I21,AHU27 Supply Filter Dirty,Off,No Alarm
+16,I22,AHU27 Extract Filter Dirty,Off,No Alarm
+16,I23,AHU27 Supply Fan Flow,Off,No Alarm
+16,I24,AHU27 Extract Fan Flow,Off,No Alarm
+16,I25,AHU29 Supply Filter Dirty,Off,No Alarm
+16,I26,AHU29 Extract Filter Dirty,Off,No Alarm
+16,I27,AHU29 Supply Fan Flow,Off,No Alarm
+16,I28,AHU29 Extract Fan Flow,Off,No Alarm
+16,I29,AHU24 Recirc in Heat Mode,On,No Alarm
+16,I30,AHU24 Recirc in Cool Mode,Off,No Alarm
+16,I31,AHU6 Supply Flow Fail,Off,No Alarm
+16,I32,AHU6 ExtractFlow Fail,Off,No Alarm
+16,I33,AHU6 Recoup in Heat Mode,On,No Alarm
+16,I34,AHU6 Recoup in Cool Mode,Off,No Alarm
+16,I37,AHU8 Supply Flow Fail,Off,No Alarm
+16,I38,AHU8 ExtractFlow Fail,On,Digin
+16,I39,AHU8 Recoup in Heat Mode,Off,No Alarm
+16,I40,AHU8 Recoup in Cool Mode,Off,No Alarm
+16,I41,AHU24 Supply Flow Fail,Off,No Alarm
+16,I40,AHU8 Recoup in Cool Mode,Off,No Alarm
+16,I41,AHU24 Supply Flow Fail,Off,No Alarm
+16,I42,AHU24 ExtractFlow Fail,Off,No Alarm
+16,I45,AHU26 Supply Flow Fail,On,Digin
+16,I46,AHU26 ExtractFlow Fail,Off,No Alarm
+16,I47,AHU26 Recoup in Heat Mode,On,No Alarm
+16,I48,AHU26 Recoup in Cool Mode,Off,No Alarm
+16,I49,AHU27 Supply Flow Fail,On,Digin
+16,I50,AHU27 Duty Fan Fail,On,Digin
+16,I51,AHU27 Extract Fan 1+2 Fail,Off,No Alarm
+16,I50,AHU27 Duty Fan Fail,On,Digin
+16,I51,AHU27 Extract Fan 1+2 Fail,Off,No Alarm
+16,I52,AHU27 Recoup in Heat Mode,Off,No Alarm
+16,I53,AHU27 Recoup in Cool Mode,Off,No Alarm
+16,I54,AHU29 Supply Flow Fail,On,Digin
+16,I55,AHU29 ExtractFlow Fail,Off,No Alarm
+16,I56,AHU29 Recoup in Heat Mode,Off,No Alarm
+16,I57,AHU29 Recoup in Cool Mode,Off,No Alarm
+16,I99,AC FAULT,Off,No Alarm
+17,I1,AHU30 Supply Filter Dirty,Off,No Alarm
+17,I2,AHU30 Extract Filter Dirty,Off,No Alarm
+17,I3,AHU30 Supply Fan Flow,Off,No Alarm
+17,I4,AHU30 Extract Fan Flow,Off,No Alarm
+17,I5,AHU31 Supply Filter Dirty,Off,No Alarm
+17,I6,AHU31 Extract Filter Dirty,Off,No Alarm
+17,I7,AHU31 Supply Fan Flow,On,No Alarm
+17,I8,AHU31 Extract Fan Flow,On,No Alarm
+17,I9,EF01 Extract Fan Fault,Off,No Alarm
+17,I10,EF03 Extract Fan Fault,Off,No Alarm
+17,I10,EF03 Extract Fan Fault,Off,No Alarm
+17,I11,Overdoor Htr 2 Fault,Off,No Alarm
+17,I12,SF01 Supply Filter Dirty,Off,No Alarm
+17,I13,SF01 Supply Fan Flow,Off,No Alarm
+17,I14,KS01 Supply Filter Dirty,Off,No Alarm
+17,I15,KS01 Supply Fan Flow,On,No Alarm
+17,I16,KS02-01 Supply Filter Dirty,Off,No Alarm
+17,I17,KS02-01 Supply Fan Flow,On,No Alarm
+17,I18,KS02-02 Supply Filter Dirty,Off,No Alarm
+17,I19,KS02-02 Supply Fan Flow,Off,No Alarm
+17,I20,Comms Room Split System 1 Flt,Off,No Alarm
+17,I21,Comms Room Split System 2 Flt,Off,No Alarm
+17,I22,Overdoor Htr 1 Fault,Off,No Alarm
+17,I23,GV1 gas Safety Active,Off,No Alarm
+17,I24,GV2 Gas Safety Active,Off,No Alarm
+17,I26,Non Food Flow Fail,Off,No Alarm
+17,I27,SF01 Fan Flow Fail,On,Digin
+17,I28,Firemans Auto,On,No Alarm
+17,I29,AHU30 Supply Flow Fail,Off,No Alarm
+17,I30,AHU30 ExtractFlow Fail,Off,No Alarm
+17,I30,AHU30 ExtractFlow Fail,Off,No Alarm
+17,I31,AHU30 Recoup in Heat Mode,Off,No Alarm
+17,I32,AHU30 Recoup in Cool Mode,Off,No Alarm
+17,I33,AHU31 Supply Flow Fail,Off,No Alarm
+17,I34,AHU31 Duty Fan Fail,Off,No Alarm
+17,I35,AHU31 Extract Fan 1+2 Fail,Off,No Alarm
+17,I36,AHU31 Recoup in Heat Mode,Off,No Alarm
+17,I37,AHU31 Recoup in Cool Mode,Off,No Alarm
+17,I38,KS01 Supply Flow Fail,Off,No Alarm
+17,I39,KS02-01 Supply Flow Fail,Off,No Alarm
+17,I40,KS02-02 Supply Flow Fail,On,Digin
+17,I41,Firemans Extract,Off,No Alarm
+17,I42,HRU Fault,On,No Alarm
+17,I43,Flow Non food fan,On,No Alarm
+19,I1,CP4 Service Required,On,Digin
+19,I2,Fire Alarm Active,Off,No Alarm
+19,I3,Gas Safety Active,Off,No Alarm
+19,I4,LPHW Press Unit Low Pressure,Off,No Alarm
+19,I5,LPHW Press Unit High Pressure,Off,No Alarm
+19,I6,Boiler 1 Fault,Off,No Alarm
+19,I7,Boiler 2 Fault,Off,No Alarm
+19,I8,Boiler 3 Fault,Off,No Alarm
+19,I9,Boiler 4 Fault,Off,No Alarm
+19,I10,Boiler 1 Shunt Pump Flow,On,No Alarm
+19,I10,Boiler 1 Shunt Pump Flow,On,No Alarm
+19,I11,Boiler 2 Shunt Pump Flow,On,No Alarm
+19,I12,Boiler 3 Shunt Pump Flow,On,No Alarm
+19,I13,Boiler 4 Shunt Pump Flow,On,No Alarm
+19,I14,West Riser LPHW CT Pumps Flow,On,No Alarm
+19,I15,North Riser LPHW CT Pumps Flow,On,No Alarm
+19,I16,East Riser LPHW CT Pumps Flow,On,No Alarm
+19,I17,3F AHU LPHW CT Pumps Flow,On,No Alarm
+19,I18,Generator Running,Off,No Alarm
+19,I19,Water Conditioner 1 Fault,Off,No Alarm
+19,I20,Water Conditioner 2 Fault,Off,No Alarm
+19,I21,DHWS Cyl 1 Shunt Pump Flow,On,No Alarm
+19,I22,DHWS Cyl 2 Shunt Pump Flow,On,No Alarm
+19,I23,DHWS Cyl 3 Shunt Pump Flow,On,No Alarm
+19,I24,DHWS Cyl 4 Shunt Pump Flow,Off,No Alarm
+19,I25,DHWS Secondary Pump Flow,On,No Alarm
+19,I26,CHW Press Unit Low Pressure,Off,No Alarm
+19,I27,CHW Press Unit High Pressure,Off,No Alarm
+19,I28,Chiller 1 Fault,Off,No Alarm
+19,I29,Chiller 2 Fault,Off,No Alarm
+19,I30,Chiller 3 Fault,Off,No Alarm
+19,I31,Chiller 1 Shunt Pump Flow,Off,No Alarm
+19,I32,Chiller 2 Shunt Pump Flow,Off,No Alarm
+19,I33,Chiller 3 Shunt Pump Flow,Off,No Alarm
+19,I34,West Riser CHW CT Pumps Flow,On,No Alarm
+19,I35,North Riser CHW CT Pumps Flow,On,No Alarm
+19,I36,East Riser CHW CT Pumps Flow,On,No Alarm
+19,I37,3F AHU CHW CT Pumps Flow,On,No Alarm
+19,I38,Summer Eco On,Off,No Alarm
+19,I39,AHU Interlock OK,On,No Alarm
+19,I40,1st Stage Frost,Off,No Alarm
+19,I41,2nd Stage Frost,Off,No Alarm
+19,I42,3rd Stage Frost,Off,No Alarm
+19,I44,Chiller 1 Duty Shunt Pump Fail,On,Digin
+19,I45,Chiller 1 Shunt Pump 1+2 Fail,On,Digin
+19,I46,HWS Cylinder 2 Pump Flow Fail,Off,No Alarm
+19,I47,HWS Cylinder 2 High Limit,Off,No Alarm
+19,I48,West LPHW CT Duty Pump Fail,On,Digin
+19,I49,Blr 1 Shunt Pump Flow Fail,Off,No Alarm
+19,I50,Blr 2 Shunt Pump Flow Fail,Off,No Alarm
+19,I50,Blr 2 Shunt Pump Flow Fail,Off,No Alarm
+19,I51,Blr 3 Shunt Pump Flow Fail,Off,No Alarm
+19,I52,Blr 4 Shunt Pump Flow Fail,Off,No Alarm
+19,I53,West LPHW CT Pump 1+2 Fail,Off,No Alarm
+19,I54,North LPHW CT Duty Pump Fail,Off,No Alarm
+19,I55,North LPHW CT Pump 1+2 Fail,Off,No Alarm
+19,I56,East LPHW CT Duty Pump Fail,Off,No Alarm
+19,I57,East LPHW CT Pump 1+2 Fail,Off,No Alarm
+19,I58,AHU LPHW CT Duty Pump Fail,On,Digin
+19,I59,AHU LPHW CT Pump 1+2 Fail,On,Digin
+19,I60,HWS Cylinder 1 Pump Flow Fail,Off,No Alarm
+19,I61,HWS Cylinder 1 High Limit,Off,No Alarm
+19,I62,HWS Cylinder 3 Pump Flow Fail,Off,No Alarm
+19,I63,Chiller 2 Duty Shunt Pump Fail,On,Digin
+19,I64,HWS Cylinder 3 High Limit,Off,No Alarm
+19,I65,HWS Cylinder 4 Pump Flow Fail,On,Digin
+19,I66,Chiller 2 Shunt Pump 1+2 Fail,On,Digin
+19,I67,HWS Cylinder 4 High Limit,Off,No Alarm
+19,I68,DHWS Sec Pump Flow Fail,Off,No Alarm
+19,I69,Chiller 3 Duty Shunt Pump Fail,On,Digin
+19,I70,Chiller 3 Shunt Pump 1+2 Fail,On,Digin
+19,I71,West CHW CT Duty Pump Fail,Off,No Alarm
+19,I72,West CHW CT Pump 1+2 Fail,Off,No Alarm
+19,I73,North CHW CT Duty Pump Fail,Off,No Alarm
+19,I74,North CHW CT Pump 1+2 Fail,Off,No Alarm
+19,I75,East CHW CT Duty Pump Fail,On,Digin
+19,I76,East CHW CT Pump 1+2 Fail,Off,No Alarm
+19,I77,AHU CHW CT Duty Pump Fail,On,Digin
+19,I78,AHU CHW CT Pump 1+2 Fail,On,Digin
+20,I1,Gas Meter,On,No Alarm
+20,I2,AHU03 Supply Filter Dirty,Off,No Alarm
+20,I3,AHU03 Extract Filter Dirty,Off,No Alarm
+20,I4,AHU03 Supply Fan Flow,Off,No Alarm
+20,I5,AHU03 Extract Fan Flow,Off,No Alarm
+20,I6,AHU05 Supply Filter Dirty,Off,No Alarm
+20,I7,AHU05 Extract Filter Dirty,Off,No Alarm
+20,I8,AHU05 Supply Fan Flow,On,No Alarm
+20,I9,AHU05 Extract Fan Flow,On,No Alarm
+20,I10,AHU01 Supply Filter Dirty,Off,No Alarm
+20,I10,AHU01 Supply Filter Dirty,Off,No Alarm
+20,I11,AHU01 Extract Filter Dirty,Off,No Alarm
+20,I12,AHU01 Supply Fan Flow,On,No Alarm
+20,I13,AHU01 Extract Fan Flow,On,No Alarm
+20,I14,AHU02 Supply Filter Dirty,Off,No Alarm
+20,I15,AHU02 Extract Filter Dirty,Off,No Alarm
+20,I16,AHU02 Supply Fan Flow,On,No Alarm
+20,I17,AHU02 Extract Fan Flow,On,No Alarm
+20,I18,AHU3 Recoup in Heat Mode,Off,No Alarm
+20,I19,AHU3 Recoup in Cool Mode,Off,No Alarm
+20,I20,AHU1 Supply Flow Fail,On,Digin
+20,I21,AHU1 ExtractFlow Fail,On,Digin
+20,I22,AHU1 Recoup in Heat Mode,Off,No Alarm
+20,I23,AHU1 Recoup in Cool Mode,Off,No Alarm
+20,I24,AHU2 Supply Flow Fail,Off,No Alarm
+20,I25,AHU2 ExtractFlow Fail,Off,No Alarm
+20,I26,Recoup in Heat Mode,On,No Alarm
+20,I27,Recoup in Cool Mode,Off,No Alarm
+20,I28,AHU3 Supply Flow Fail,On,Digin
+20,I29,AHU3 ExtractFlow Fail,Off,No Alarm
+20,I30,DB1W Guest DB Elec Meter,Off,No Alarm
+20,I31,DB2W Guest Gen LP Elec Meter,Off,No Alarm
+20,I32,AHU5 Supply Flow Fail,Off,No Alarm
+20,I33,AHU5 ExtractFlow Fail,Off,No Alarm
+20,I34,AHU5 Recoup in Heat Mode,Off,No Alarm
+20,I35,AHU5 Recoup in Cool Mode,Off,No Alarm
+20,I36,DB3W Guest Gen DB Elec Meter,Off,No Alarm
+20,I37,DB4W Guest Gen DB Elec Meter,Off,No Alarm
+20,I38,DBLPG5 Gen LP Elec Meter,Off,No Alarm
+20,I39,Lift 4 Pwr Sup Elec Meter,Off,No Alarm
+20,I40,DB ME 1 Gen LP Elec Meter,Off,No Alarm
+20,I41,DB 1 E Guest Gen LP Elec Meter,Off,No Alarm
+20,I42,DB 2 E Guest Gen LP Elec Meter,Off,No Alarm
+20,I43,DB 3 E Guest Gen LP Elec Meter,Off,No Alarm
+20,I44,DB 4 E Guest Gen LP Elec Meter,Off,No Alarm
+20,I45,DB LP5 PL1 Plant RM Elec Meter,Off,No Alarm
+20,I46,CP2 Elec Meter,Off,No Alarm
+20,I47,DB LP5 PL2 Plant RM Elec Meter,Off,No Alarm
+20,I48,Spare,Off,No Alarm
+20,I49,AC ALARM,Off,No Alarm
+21,I2,Main Incoming Water Meter,On,No Alarm
+21,I3,AHU07 Supply Filter Dirty,Off,No Alarm
+21,I4,AHU07 Extract Filter Dirty,On,Digin
+21,I5,AHU07 Supply Fan Flow,Off,No Alarm
+21,I6,AHU07 Extract Fan Flow,On,No Alarm
+21,I7,AHU10 Supply Filter Dirty,Off,No Alarm
+21,I8,AHU10 Extract Filter Dirty,On,Digin
+21,I9,AHU10 Supply Fan Flow,Off,No Alarm
+21,I10,AHU10 Extract Fan Flow,On,No Alarm
+21,I11,AHU11 Supply Filter Dirty,Off,No Alarm
+21,I10,AHU10 Extract Fan Flow,On,No Alarm
+21,I11,AHU11 Supply Filter Dirty,Off,No Alarm
+21,I12,AHU11 Extract Filter Dirty,Off,No Alarm
+21,I13,AHU11 Supply Fan Flow,On,No Alarm
+21,I14,AHU11 Extract Fan Flow,On,No Alarm
+21,I15,AHU12 Supply Filter Dirty,Off,No Alarm
+21,I16,AHU12 Extract Filter Dirty,Off,No Alarm
+21,I17,AHU12 Supply Fan Flow,On,No Alarm
+21,I18,AHU12 Extract Fan Flow,On,No Alarm
+21,I19,KE01 Extract Fan Flow,On,No Alarm
+21,I20,KE02 Extract Fan Flow,On,No Alarm
+21,I21,KE04 Extract Fan Flow,Off,No Alarm
+21,I22,KE05 Extract Fan Flow,On,No Alarm
+21,I23,KS03 Supply Fan Flow,Off,No Alarm
+21,I24,KS03 Supply Filter Dirty,Off,No Alarm
+21,I25,KE03 Extract Fan Flow,Off,No Alarm
+21,I26,GF CWS Booster Set Fault,Off,No Alarm
+21,I27,5th Flr CWS Booster Set Fault,On,Digin
+21,I28,KE02 ExtractFlow Fail,Off,No Alarm
+21,I29,AHU7 Supply Flow Fail,Off,No Alarm
+21,I30,AHU7 ExtractFlow Fail,On,Digin
+21,I31,AHU7 Recoup in Heat Mode,Off,No Alarm
+21,I32,AHU7 Recoup in Cool Mode,Off,No Alarm
+21,I33,AHU10 Supply Flow Fail,On,Digin
+21,I34,AHU10 ExtractFlow Fail,On,Digin
+21,I35,AHU10 Recoup in Heat Mode,Off,No Alarm
+21,I36,AHU10 Recoup in Cool Mode,Off,No Alarm
+21,I37,AHU11 Supply Flow Fail,Off,No Alarm
+21,I38,AHU11 ExtractFlow Fail,Off,No Alarm
+21,I39,AHU11 Recoup in Heat Mode,Off,No Alarm
+21,I40,AHU11 Recoup in Cool Mode,Off,No Alarm
+21,I41,AHU12 Supply Flow Fail,Off,No Alarm
+21,I42,AHU12 ExtractFlow Fail,Off,No Alarm
+21,I43,AHU12 Recoup in Heat Mode,Off,No Alarm
+21,I44,AHU12 Recoup in Cool Mode,Off,No Alarm
+21,I45,KS03 Supply Flow Fail,On,Digin
+21,I46,KE03 ExtractFlow Fail,Off,No Alarm
+21,I47,KE01 ExtractFlow Fail,Off,No Alarm
+21,I48,KE04 ExtractFlow Fail,Off,No Alarm
+21,I49,KE05 ExtractFlow Fail,Off,No Alarm
+21,I50,GF CWS Tank Comp 1 Low Level,Off,No Alarm
+21,I51,GF CWS Tank Comp 1 High Level,Off,No Alarm
+21,I52,GF CWS Tank Comp 2 Low Level,Off,No Alarm
+21,I53,GF CWS Tank Comp 2 High Level,Off,No Alarm
+21,I54,5F CWS Tank Comp 1 Low Level,Off,No Alarm
+21,I55,5F CWS Tank Comp 1 High Level,Off,No Alarm
+21,I56,5F CWS Tank Comp 2 Low Level,Off,No Alarm
+21,I57,5F CWS Tank Comp 2 High Level,Off,No Alarm
+21,I58,EF02 Mezz Toilet ACOB Fault,On,Digin
+21,I59,Spare,Off,No Alarm

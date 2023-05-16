@@ -1,0 +1,319 @@
+Outstation,Item,Label,Value,Module Status,Alarm,
+11,D1,AHU4 Supply Fan,Off,Normal,No Alarm
+11,D2,AHU4 Extract Fan,Off,Normal,No Alarm
+11,D3,AHU4 Supply Fan Speed,0.00,Normal,No Alarm
+11,D4,AHU4 Extract Fan Speed,0.00,Normal,No Alarm
+11,D5,AHU4 Heating Valve,0.00,Normal,No Alarm
+11,D6,AHU4 Recoup Damper,0.00,Normal,No Alarm
+11,D7,AHU9 Supply Fan,Off,Normal,No Alarm
+11,D8,AHU9 Extract Fan,Off,Normal,No Alarm
+11,D9,AHU9 Supply Fan Speed,0.00,Normal,No Alarm
+11,D10,AHU9 Extract Fan Speed,0.00,Normal,No Alarm
+11,D10,AHU9 Extract Fan Speed,0.00,Normal,No Alarm
+11,D11,AHU9 Heating Valve,0.00,Normal,No Alarm
+11,D12,AHU9 Cooling Valve,0.00,Normal,No Alarm
+11,D13,AHU9 Recoup Damper,0.00,Normal,No Alarm
+11,D14,AHU28 Supply Fan,On,Normal,No Alarm
+11,D15,AHU28 Extract Fan,On,Normal,No Alarm
+11,D16,AHU28 Supply Fan Speed,100.00,Normal,No Alarm
+11,D17,AHU28 Extract Fan Speed,95.00,Normal,No Alarm
+11,D18,AHU28 Heating Valve,0.00,Normal,No Alarm
+11,D19,AHU28 Recoup Damper,0.00,Normal,No Alarm
+11,D20,AHU32 Supply Fan,On,Normal,No Alarm
+11,D21,AHU32 Supply Fan Speed,100.00,Normal,No Alarm
+11,D22,AHU32 Extract Fan Speed,0.00,Normal,No Alarm
+11,D23,AHU32 Ext Fan No 1,Off,Normal,No Alarm
+11,D24,AHU32 Ext Fan No 2,Off,Normal,No Alarm
+11,D25,AHU32 Heating Valve,12.22,Normal,No Alarm
+11,D26,AHU32 Recoup Damper,100.00,Normal,No Alarm
+11,D27,AHU35 Supply Fan,Off,Normal,No Alarm
+11,D28,AHU35 Extract Fan,Off,Normal,No Alarm
+11,D29,AHU35 Supply Fan Speed,0.00,Normal,No Alarm
+11,D30,AHU35 Extract Fan Speed,0.00,Normal,No Alarm
+11,D31,AHU35 Heating Valve,0.00,Normal,No Alarm
+11,D32,AHU35 Recoup Damper,0.00,Normal,No Alarm
+13,D1,AHU13 Supply Fan,On,Normal,No Alarm
+13,D2,AHU13 Extract Fan,Off,Normal,No Alarm
+13,D3,AHU13 Supply Fan Speed,95.00,Normal,No Alarm
+13,D4,AHU13 Extract Fan Speed,0.00,Normal,No Alarm
+13,D5,AHU13 Heating Valve,0.00,Normal,No Alarm
+13,D6,AHU13 Cooling Valve,4.42,Normal,No Alarm
+13,D7,AHU13 Recoup Damper,0.00,Normal,No Alarm
+13,D8,AHU14 Supply Fan,On,Normal,No Alarm
+13,D9,AHU14 Extract Fan,On,Normal,No Alarm
+13,D10,AHU14 SupFanSpeed,100.00,Normal,No Alarm
+13,D10,AHU14 SupFanSpeed,100.00,Normal,No Alarm
+13,D11,AHU14 ExtFanSpeed,90.00,Normal,No Alarm
+13,D12,AHU14 Heating Coil,0.00,Normal,No Alarm
+13,D13,AHU14 Cooling Coil,100.00,Normal,No Alarm
+13,D14,AHU14 Dampers,100.00,Normal,No Alarm
+13,D15,AHU15 Supply Fan,On,Normal,No Alarm
+13,D16,AHU15 Extract Fan,Off,Normal,No Alarm
+13,D17,AHU15 SupFanSpeed,100.00,Normal,No Alarm
+13,D18,AHU15 ExtFanSpeed,0.00,Normal,No Alarm
+13,D19,AHU15 Heating Coil,0.00,Normal,No Alarm
+13,D20,AHU15 Cooling Coil,100.00,Normal,No Alarm
+13,D21,AHU15 Dampers,100.00,Normal,No Alarm
+13,D22,AHU16 Supply Fan,On,Normal,No Alarm
+13,D23,AHU16 Extract Fan,On,Normal,No Alarm
+13,D24,AHU16 SupFanSpeed,95.00,Normal,No Alarm
+13,D25,AHU16 ExtFanSpeed,90.00,Normal,No Alarm
+13,D26,AHU16 Heating Coil,0.00,Normal,No Alarm
+13,D27,AHU16 Cooling Coil,100.00,Normal,No Alarm
+13,D28,AHU16 Dampers,100.00,Normal,No Alarm
+13,D29,AHU17 Supply Fan,Off,Normal,No Alarm
+13,D30,AHU17 Extract Fan,Off,Normal,No Alarm
+13,D31,AHU17 SupFanSpeed,0.00,Normal,No Alarm
+13,D32,AHU17 ExtFanSpeed,0.00,Normal,No Alarm
+13,D33,AHU17 Heating Coil,0.00,Normal,No Alarm
+13,D34,AHU17 Cooling Coil,0.00,Normal,No Alarm
+13,D35,AHU17 Dampers,0.00,Normal,No Alarm
+13,D36,AHU18 Supply Fan,On,Normal,No Alarm
+13,D37,AHU18 Extract Fan,On,Normal,No Alarm
+13,D38,AHU18 SupFanSpeed,100.00,Normal,No Alarm
+13,D39,AHU18 ExtFanSpeed,90.00,Normal,No Alarm
+13,D40,AHU18 Heating Coil,0.00,Normal,No Alarm
+13,D41,AHU18 Cooling Coil,100.00,Normal,No Alarm
+13,D42,AHU18 Dampers,100.00,Normal,No Alarm
+13,D43,KS04 Supply Fan,Off,Normal,No Alarm
+13,D44,KS04 Supply Fan Speed,0.00,Normal,No Alarm
+13,D45,KS04 Heating Valve,0.00,Normal,No Alarm
+14,D1,AHU19 Supply Fan,On,Normal,No Alarm
+14,D2,AHU19 Extract Fan,On,Normal,No Alarm
+14,D3,AHU19 SupFanSpeed,100.00,Normal,No Alarm
+14,D4,AHU19 ExtFanSpeed,100.00,Normal,No Alarm
+14,D5,AHU19 Heating Coil,27.27,Normal,No Alarm
+14,D6,AHU19 Cooling Coil,0.00,Normal,No Alarm
+14,D7,AHU19 Dampers,100.00,Normal,No Alarm
+14,D8,AHU20 Supply Fan,On,Normal,No Alarm
+14,D9,AHU20 Extract Fan,On,Normal,No Alarm
+14,D10,AHU20 SupFanSpeed,100.00,Normal,No Alarm
+14,D10,AHU20 SupFanSpeed,100.00,Normal,No Alarm
+14,D11,AHU20 ExtFanSpeed,90.00,Normal,No Alarm
+14,D12,AHU20 Heating Coil,25.12,Normal,No Alarm
+14,D13,AHU20 Cooling Coil,0.00,Normal,No Alarm
+14,D14,AHU20 Dampers,50.00,Normal,No Alarm
+14,D15,AHU21 Supply Fan,Off,Normal,No Alarm
+14,D16,AHU21 Extract Fan,Off,Normal,No Alarm
+14,D17,AHU21 SupFanSpeed,0.00,Normal,No Alarm
+14,D18,AHU21 ExtFanSpeed,0.00,Normal,No Alarm
+14,D19,AHU21 Heating Coil,0.00,Normal,No Alarm
+14,D20,AHU21 Cooling Coil,0.00,Normal,No Alarm
+14,D21,AHU21 Dampers,0.00,Normal,No Alarm
+14,D22,AHU22 Supply Fan,On,Normal,No Alarm
+14,D23,AHU22 Extract Fan,On,Normal,No Alarm
+14,D24,AHU22 SupFanSpeed,90.00,Normal,No Alarm
+14,D25,AHU22 ExtFanSpeed,85.00,Normal,No Alarm
+14,D26,AHU22 Heating Coil,0.00,Normal,No Alarm
+14,D27,AHU22 Cooling Coil,0.00,Normal,No Alarm
+14,D28,AHU22 Dampers,80.00,Normal,No Alarm
+14,D29,AHU23 Supply Fan,On,Normal,No Alarm
+14,D30,AHU23 Extract Fan,On,Normal,No Alarm
+14,D31,AHU23 SupFanSpeed,95.00,Normal,No Alarm
+14,D32,AHU23 ExtFanSpeed,85.00,Normal,No Alarm
+14,D33,AHU23 Heating Coil,26.33,Normal,No Alarm
+14,D34,AHU23 Cooling Coil,0.00,Normal,No Alarm
+14,D35,AHU23 Dampers,80.00,Normal,No Alarm
+14,D36,KS05 Supply Fan,On,Normal,No Alarm
+14,D37,KS05 Supply Fan Speed,100.00,Normal,No Alarm
+14,D38,KS05 Heating Valve,30.84,Normal,No Alarm
+14,D39,KS05 Cooling Valve,0.00,Normal,No Alarm
+16,D1,AHU6 Supply Fan,On,Normal,No Alarm
+16,D2,AHU6 Extract Fan,On,Normal,No Alarm
+16,D3,AHU6 Supply Fan Speed,100.00,Normal,No Alarm
+16,D4,AHU6 Extract Fan Speed,100.00,Normal,No Alarm
+16,D5,AHU6 Heating Valve,41.23,Normal,No Alarm
+16,D6,AHU6 Cooling Valve,0.00,Normal,No Alarm
+16,D7,AHU6 Recoup Damper,100.00,Normal,No Alarm
+16,D8,AHU8 Supply Fan,On,Normal,No Alarm
+16,D9,AHU8 Extract Fan,On,Normal,No Alarm
+16,D10,AHU8 Supply Fan Speed,95.00,Normal,No Alarm
+16,D10,AHU8 Supply Fan Speed,95.00,Normal,No Alarm
+16,D11,AHU8 Extract Fan Speed,90.00,Normal,No Alarm
+16,D12,AHU8 Heating Valve,18.04,Normal,No Alarm
+16,D13,AHU8 Cooling Valve,0.00,Normal,No Alarm
+16,D14,AHU8 Recoup Damper,100.00,Normal,No Alarm
+16,D15,AHU24 Supply Fan,Off,Normal,No Alarm
+16,D16,AHU24 Extract Fan,Off,Normal,No Alarm
+16,D17,AHU24 SupFanSpeed,0.00,Normal,No Alarm
+16,D18,AHU24 ExtFanSpeed,0.00,Normal,No Alarm
+16,D19,AHU24 Heating Valve,0.00,Normal,No Alarm
+16,D20,AHU24 Cooling Valve,0.00,Normal,No Alarm
+16,D21,AHU24 Recirc Damper,0.00,Normal,No Alarm
+16,D22,AHU26 Supply Fan,On,Normal,No Alarm
+16,D23,AHU26 Extract Fan,Off,Normal,No Alarm
+16,D24,AHU26 Supply Fan Speed,60.00,Normal,No Alarm
+16,D25,AHU26 Extract Fan Speed,0.00,Normal,No Alarm
+16,D26,AHU26 Heating Valve,100.00,Normal,No Alarm
+16,D27,AHU26 Recoup Damper,100.00,Normal,No Alarm
+16,D28,AHU27 Supply Fan,On,Normal,No Alarm
+16,D29,AHU27 Supply Fan Speed,90.00,Normal,No Alarm
+16,D30,AHU27 Extract Fan Speed,85.00,Normal,No Alarm
+16,D31,AHU27 Ext Fan No 1,On,Normal,No Alarm
+16,D32,AHU27 Ext Fan No 2,Off,Normal,No Alarm
+16,D33,AHU27 Heating Valve,0.00,Normal,No Alarm
+16,D34,AHU27 Cooling Valve,0.00,Normal,No Alarm
+16,D35,AHU27 Recoup Damper,0.00,Normal,No Alarm
+16,D36,AHU29 Supply Fan,On,Normal,No Alarm
+16,D37,AHU29 Extract Fan,Off,Normal,No Alarm
+16,D38,AHU29 Supply Fan Speed,95.00,Normal,No Alarm
+16,D39,AHU29 Extract Fan Speed,0.00,Normal,No Alarm
+16,D40,AHU29 Heating Valve,0.00,Normal,No Alarm
+16,D41,AHU29 Recoup Damper,0.00,Normal,No Alarm
+17,D1,AHU30 Supply Fan,Off,Normal,No Alarm
+17,D2,AHU30 Extract Fan,Off,Normal,No Alarm
+17,D3,AHU30 Supply Fan Speed,0.00,Normal,No Alarm
+17,D4,AHU30 Extract Fan Speed,0.00,Normal,No Alarm
+17,D5,AHU30 Heating Valve,0.00,Normal,No Alarm
+17,D6,AHU30 Recoup Damper,0.00,Normal,No Alarm
+17,D7,AHU31 Supply Fan,On,Normal,No Alarm
+17,D8,AHU31 Supply Fan Speed,100.00,Normal,No Alarm
+17,D9,AHU31 Extract Fan Speed,100.00,Normal,No Alarm
+17,D10,AHU31 Ext Fan No 1,On,Normal,No Alarm
+17,D10,AHU31 Ext Fan No 1,On,Normal,No Alarm
+17,D11,AHU31 Ext Fan No 2,Off,Normal,No Alarm
+17,D12,AHU31 Heating Valve,0.00,Normal,No Alarm
+17,D13,SF01 Toilets Supply Fan,On,Normal,No Alarm
+17,D14,AHU31 Recoup Damper,0.00,Normal,No Alarm
+17,D15,SF01 Htg Coil Valve,3.67,Normal,No Alarm
+17,D16,KS01 Supply Fan,On,Normal,No Alarm
+17,D17,KS01 Supply Fan Speed,100.00,Normal,No Alarm
+17,D18,KS01 Heating Valve,16.83,Normal,No Alarm
+17,D19,KS01 Cooling Valve,0.00,Normal,No Alarm
+17,D20,KS02-01 Supply Fan,On,Normal,No Alarm
+17,D21,KS02-01 Supply Fan Speed,100.00,Normal,No Alarm
+17,D22,KS02-01 Heating Valve,23.36,Normal,No Alarm
+17,D23,KS02-01 Cooling Valve,0.00,Normal,No Alarm
+17,D24,KS02-02 Supply Fan,On,Normal,No Alarm
+17,D25,KS02-02 Supply Fan Speed,100.00,Normal,No Alarm
+17,D26,KS02-02 Heating Valve,0.00,Normal,No Alarm
+17,D27,KS02-02 Cooling Valve,0.00,Normal,No Alarm
+17,D28,EF01 Toilets GF Extract Fan,On,Normal,No Alarm
+17,D29,EF03 Lift Room Extract Fan,On,Normal,No Alarm
+17,D30,Foyer OD Heater 1,Off,Normal,No Alarm
+17,D31,Foyer OD Heater 2,Off,Normal,No Alarm
+17,D32,Remote Alarm Panel,On,Normal,No Alarm
+17,D33,Trench Valve,6.53,Normal,No Alarm
+17,D34,NON FOOD Extract Fan,On,Normal,No Alarm
+19,D1,Boiler 1 Modulation,0.00,Normal,No Alarm
+19,D2,Boiler 2 Modulation,0.00,Normal,No Alarm
+19,D3,Boiler 3 Modulation,48.87,Normal,No Alarm
+19,D4,Boiler 4 Modulation,0.00,Normal,No Alarm
+19,D5,Boiler No.1,Off,Normal,No Alarm
+19,D6,Boiler No.2,Off,Normal,No Alarm
+19,D8,Boiler No.3,On,Normal,No Alarm
+19,D9,Blr 1 Shunt Pump,On,Normal,No Alarm
+19,D10,Blr 2 Shunt Pump,On,Normal,No Alarm
+19,D11,Blr 3 Shunt Pump,On,Normal,No Alarm
+19,D10,Blr 2 Shunt Pump,On,Normal,No Alarm
+19,D11,Blr 3 Shunt Pump,On,Normal,No Alarm
+19,D12,Blr 4 Shunt Pump,On,Normal,No Alarm
+19,D13,Boiler No.4,Off,Normal,No Alarm
+19,D14,West LPHW CT Pump No 1,Off,Normal,No Alarm
+19,D15,West LPHW CT Pump No 2,Off,Normal,No Alarm
+19,D16,West LPHW CT Pump Speed,80.00,Normal,No Alarm
+19,D17,North LPHW CT Pump Speed,100.00,Normal,No Alarm
+19,D18,North LPHW CT Pump No 1,On,Normal,No Alarm
+19,D19,North LPHW CT Pump No 2,Off,Normal,No Alarm
+19,D20,East LPHW CT Pump Speed,100.00,Normal,No Alarm
+19,D21,East LPHW CT Pump No 1,Off,Normal,No Alarm
+19,D22,East LPHW CT Pump No 2,On,Normal,No Alarm
+19,D23,AHU LPHW CT Pump Speed,80.00,Normal,No Alarm
+19,D24,AHU LPHW CT Pump No 1,Off,Normal,No Alarm
+19,D25,AHU LPHW CT Pump No 2,Off,Normal,No Alarm
+19,D26,HWS Cylinder 1 Shunt Pump,On,Normal,No Alarm
+19,D27,HWS Cylinder 2 Shunt Pump,On,Normal,No Alarm
+19,D28,HWS Cylinder 3 Shunt Pump,On,Normal,No Alarm
+19,D29,HWS Cylinder 4 Shunt Pump,On,Normal,No Alarm
+19,D30,DHWS Sec Pump,On,Normal,No Alarm
+19,D33,Chiller No.1,Off,Normal,No Alarm
+19,D34,Chiller No.2,Off,Normal,No Alarm
+19,D35,Chiller No.3,Off,Normal,No Alarm
+19,D36,Chiller 1 Shunt Pump No 1,Off,Normal,No Alarm
+19,D37,Chiller 1 Shunt Pump No 2,On,Normal,No Alarm
+19,D38,Chiller 2 Shunt Pump No 1,Off,Normal,No Alarm
+19,D39,Chiller 2 Shunt Pump No 2,On,Normal,No Alarm
+19,D40,Chiller 3 Shunt Pump No 1,Off,Normal,No Alarm
+19,D41,Chiller 3 Shunt Pump No 2,On,Normal,No Alarm
+19,D40,Chiller 3 Shunt Pump No 1,Off,Normal,No Alarm
+19,D41,Chiller 3 Shunt Pump No 2,On,Normal,No Alarm
+19,D42,West CHW CT Pump No 1,On,Normal,No Alarm
+19,D43,West CHW CT Pump No 2,Off,Normal,No Alarm
+19,D44,North CHW CT Pump No 1,On,Normal,No Alarm
+19,D45,North CHW CT Pump No 2,Off,Normal,No Alarm
+19,D46,East CHW CT Pump No 1,On,Normal,No Alarm
+19,D47,East CHW CT Pump No 2,Off,Normal,No Alarm
+19,D48,AHU CHW CT Pump No 1,Off,Normal,No Alarm
+19,D49,AHU CHW CT Pump No 2,Off,Normal,No Alarm
+20,D1,AHU1 Supply Fan,Off,Normal,No Alarm
+20,D2,AHU1 Extract Fan,Off,Normal,No Alarm
+20,D3,AHU1 Supply Fan Speed,0.00,Normal,No Alarm
+20,D4,AHU1 Extract Fan Speed,0.00,Normal,No Alarm
+20,D5,AHU1 Heating Valve,0.00,Normal,No Alarm
+20,D6,AHU1 Cooling Valve,0.00,Normal,No Alarm
+20,D7,AHU1 Recoup Damper,0.00,Normal,No Alarm
+20,D8,AHU2 Supply Fan,On,Normal,No Alarm
+20,D9,AHU2 Extract Fan,On,Normal,No Alarm
+20,D10,AHU2 Supply Fan Speed,100.00,Normal,No Alarm
+20,D10,AHU2 Supply Fan Speed,100.00,Normal,No Alarm
+20,D11,AHU2 Extract Fan Speed,100.00,Normal,No Alarm
+20,D12,AHU2 Heating Valve,0.00,Normal,No Alarm
+20,D13,AHU2 Cooling Valve,47.63,Normal,No Alarm
+20,D14,AHU2 Recoup Damper,0.00,Normal,No Alarm
+20,D15,AHU3 Supply Fan,On,Normal,No Alarm
+20,D16,AHU3 Extract Fan,Off,Normal,No Alarm
+20,D17,AHU3 Supply Fan Speed,100.00,Normal,No Alarm
+20,D18,AHU3 Extract Fan Speed,0.00,Normal,No Alarm
+20,D19,AHU3 Heating Valve,0.00,Normal,No Alarm
+20,D20,AHU3 Cooling Valve,26.63,Normal,No Alarm
+20,D21,AHU3 Recoup Damper,0.00,Normal,No Alarm
+20,D22,AHU5 Supply Fan,On,Normal,No Alarm
+20,D23,AHU5 Extract Fan,On,Normal,No Alarm
+20,D24,AHU5 Supply Fan Speed,100.00,Normal,No Alarm
+20,D25,AHU5 Extract Fan Speed,100.00,Normal,No Alarm
+20,D26,AHU5 Heating Valve,11.01,Normal,No Alarm
+20,D27,AHU5 Cooling Valve,0.00,Normal,No Alarm
+20,D28,AHU5 Recoup Damper,100.00,Normal,No Alarm
+20,D29,KS03 Supply Fan Speed,100.00,Normal,No Alarm
+21,D1,AHU7 Supply Fan,Off,Normal,No Alarm
+21,D2,AHU7 Extract Fan,Off,Normal,No Alarm
+21,D3,AHU7 Supply Fan Speed,0.00,Normal,No Alarm
+21,D4,AHU7 Extract Fan Speed,0.00,Normal,No Alarm
+21,D5,AHU7 Heating Valve,0.00,Normal,No Alarm
+21,D6,AHU7 Cooling Valve,0.00,Normal,No Alarm
+21,D7,AHU7 Recoup Damper,0.00,Normal,No Alarm
+21,D8,AHU10 Supply Fan,On,Normal,No Alarm
+21,D9,AHU10 Extract Fan,Off,Normal,No Alarm
+21,D10,AHU10 Supply Fan Speed,100.00,Normal,No Alarm
+21,D10,AHU10 Supply Fan Speed,100.00,Normal,No Alarm
+21,D11,AHU10 Extract Fan Speed,0.00,Normal,No Alarm
+21,D12,AHU10 Heating Valve,0.00,Normal,No Alarm
+21,D13,AHU10 Cooling Valve,100.00,Normal,No Alarm
+21,D14,AHU10 Recoup Damper,0.00,Normal,No Alarm
+21,D15,AHU11 Supply Fan,On,Normal,No Alarm
+21,D16,AHU11 Extract Fan,On,Normal,No Alarm
+21,D17,AHU11 Supply Fan Speed,100.00,Normal,No Alarm
+21,D18,AHU11 Extract Fan Speed,100.00,Normal,No Alarm
+21,D19,AHU11 Heating Valve,0.00,Normal,No Alarm
+21,D20,AHU11 Cooling Valve,0.00,Normal,No Alarm
+21,D21,AHU11 Recoup Damper,0.00,Normal,No Alarm
+21,D22,AHU12 Supply Fan,On,Normal,No Alarm
+21,D23,AHU12 Extract Fan,On,Normal,No Alarm
+21,D24,AHU12 Supply Fan Speed,100.00,Normal,No Alarm
+21,D25,AHU12 Extract Fan Speed,100.00,Normal,No Alarm
+21,D26,AHU12 Heating Valve,0.00,Normal,No Alarm
+21,D27,AHU12 Cooling Valve,100.00,Normal,No Alarm
+21,D28,AHU12 Recoup Damper,0.00,Normal,No Alarm
+21,D29,KS03 Supply Fan,On,Normal,No Alarm
+21,D30,KS03 Extract Fan,Off,Normal,No Alarm
+21,D31,KS03 Heating Valve,0.00,Normal,No Alarm
+21,D32,KS03 Cooling Valve,0.00,Normal,No Alarm
+21,D33,KE01 Extract Fan,On,Normal,No Alarm
+21,D34,KE01 Extract Fan Speed,100.00,Normal,No Alarm
+21,D35,KE02 Extract Fan,On,Normal,No Alarm
+21,D36,KE02 Extract Fan Speed,100.00,Normal,No Alarm
+21,D37,KE04 Extract Fan,Off,Normal,No Alarm
+21,D38,KE04 Extract Fan Speed,0.00,Normal,No Alarm
+21,D39,KE05 Extract Fan,On,Normal,No Alarm
+21,D40,KE05 Extract Fan Speed,100.00,Normal,No Alarm
+21,D41,5F CWS Booster,On,Normal,No Alarm

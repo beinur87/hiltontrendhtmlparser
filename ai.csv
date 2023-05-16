@@ -1,0 +1,81 @@
+Outstation,Item,Label,Value,Units,Alarm,
+11,S1,AHU04 Supply Temp,19.58,DegC,No Alarm
+11,S2,AHU04 Extract Temp,22.25,DegC,No Alarm
+11,S3,AHU09 Supply Temp,24.10,DegC,No Alarm
+11,S4,AHU 09 Extract Temp,18.63,DegC,No Alarm
+11,S5,AHU28 Supply Temp,24.06,DegC,No Alarm
+11,S6,AHU28 Extract Temp,23.80,DegC,No Alarm
+11,S7,AHU32 Supply Temp,23.04,DegC,No Alarm
+11,S8,AHU32 Extract Temp,20.45,DegC,No Alarm
+11,S9,AHU35 Supply Temp,27.99,DegC,No Alarm
+11,S10,AHU35 Extract Temp,48.34,DegC,No Alarm
+13,S1,AHU13 Supply Temp,29.47,DegC,No Alarm
+13,S2,AHU13 Extract Temp,21.99,DegC,No Alarm
+13,S3,AHU14 Supply Temp,19.23,DegC,No Alarm
+13,S4,AHU14 Extract Temp,20.92,DegC,No Alarm
+13,S5,AHU14 Extract Air Quality,76.56,%,No Alarm
+13,S6,AHU15 Extract Air Quality,71.00,%,No Alarm
+13,S7,AHU16 Extract Air Quality,82.54,%,No Alarm
+13,S8,AHU17 Extract Air Quality,89.19,%,No Alarm
+13,S9,AHU18 Extract Air Quality,80.33,%,No Alarm
+13,S10,KS04 Supply Temp,15.56,DegC,No Alarm
+14,S1,AHU19 Extract Air Quality,77.25,%,No Alarm
+14,S2,AHU20 Extract Air Quality,72.64,%,No Alarm
+14,S3,AHU21 Extract Air Quality,75.02,%,No Alarm
+14,S4,AHU22 Extract Air Quality,77.02,%,No Alarm
+14,S5,AHU23 Extract Air Quality,62.66,%,No Alarm
+14,S6,AHU23 Supply Temp,14.63,DegC,No Alarm
+14,S7,AHU23 Extract Temp,16.03,DegC,No Alarm
+14,S8,KS05 Supply Temp,20.65,DegC,No Alarm
+14,S9,KS05 Conf Kitchen Spd Control,98.03,%,No Alarm
+14,S10,DB LV3 PL1 Gen LP Elec Meter,22737.00,kWh,No Alarm
+16,S1,AHU06 Supply Temp,31.56,DegC,No Alarm
+16,S2,AHU06 Extract Temp,23.12,DegC,No Alarm
+16,S3,Meeting Room 1 CO2,2004.00,PPM,Out of Limits
+16,S4,Meeting Room 2 CO2,664.20,PPM,No Alarm
+16,S5,Meeting Room 3 CO2,2003.00,PPM,Out of Limits
+16,S6,Meeting Room 4 CO2,662.60,PPM,No Alarm
+16,S7,Meeting Room 5 CO2,538.40,PPM,No Alarm
+16,S8,Foyer Lounge Temp 1,22.41,DegC,No Alarm
+16,S10,Foyer Lounge Temp 3,22.65,DegC,No Alarm
+16,S11,AHU08 Supply Temp,23.29,DegC,No Alarm
+17,S1,AHU30 Supply Temp,24.65,DegC,No Alarm
+17,S2,AHU30 Extract Temp,22.42,DegC,No Alarm
+17,S3,AHU31 Supply Temp,22.17,DegC,No Alarm
+17,S4,AHU31 Extract Temp,22.70,DegC,No Alarm
+17,S5,SF01 Supply Temp,21.72,DegC,No Alarm
+17,S6,KS01 Supply Temp,20.37,DegC,No Alarm
+17,S7,KS01 Speed Control,81.56,%,No Alarm
+17,S8,KS02-01 Supply Temp,21.14,DegC,No Alarm
+17,S9,KS02-01 Hood 1 Speed Control,98.82,%,No Alarm
+17,S10,KS02-02 Supply Temp,20.72,DegC,No Alarm
+19,S1,Outside Air Temp,18.51,DegC,No Alarm
+19,S2,LPHW Blr Circuit Pressure,3.25,bar,No Alarm
+19,S3,HWS Cylinder 1 Pressure,2.67,bar,No Alarm
+19,S4,HWS Cylinder 2 Pressure,1.39,bar,No Alarm
+19,S5,HWS Cylinder 3 Pressure,0.02,bar,No Alarm
+19,S6,HWS Cylinder 4 Pressure,0.02,bar,No Alarm
+19,S7,Boiler Flow Temp,69.96,DegC,No Alarm
+19,S8,Boiler Return Temp,69.61,DegC,No Alarm
+19,S9,HWS Cylinder 1 Temp,64.68,DegC,No Alarm
+19,S10,HWS Cylinder 2 Temp,64.66,DegC,No Alarm
+20,S1,AHU01 Supply Temp,24.01,DegC,No Alarm
+20,S2,AHU01 Extract Temp,24.65,DegC,No Alarm
+20,S3,Exec Lounge Space Temp 1,26.70,DegC,No Alarm
+20,S4,Exec Lounge Space Temp 2,26.00,DegC,No Alarm
+20,S5,AHU02 Supply Temp,22.39,DegC,No Alarm
+20,S6,AHU02 Extract Temp,22.52,DegC,No Alarm
+20,S8,Signature Bar Space Temp 2,22.88,DegC,No Alarm
+20,S10,Sig Restaurant Space Temp 2,24.21,DegC,No Alarm
+20,S11,Sig Restaurant Space Temp 3,23.80,DegC,No Alarm
+20,S12,Chilled Water Pressure,1.53,bar,No Alarm
+21,S1,AHU07 Supply Temp,21.00,DegC,No Alarm
+21,S2,AHU07 Extract Temp,22.21,DegC,No Alarm
+21,S3,Main GF Bar Space Temp 1,22.16,DegC,No Alarm
+21,S4,Main GF Bar Space Temp 2,21.28,DegC,No Alarm
+21,S5,Main GF Bar Space Temp 3,20.72,DegC,No Alarm
+21,S6,AHU10 Supply Temp,29.55,DegC,No Alarm
+21,S7,AHU10 Extract Temp,25.28,DegC,No Alarm
+21,S8,AHU11 Supply Temp,22.96,DegC,No Alarm
+21,S9,AHU11 Extract Temp,24.83,DegC,No Alarm
+21,S10,AHU12 Supply Temp,23.24,DegC,No Alarm
